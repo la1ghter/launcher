@@ -1,0 +1,97 @@
+{
+  "admins": [
+    "admin"
+  ],
+  "servers": [
+    {
+      "name": "Redfire RP",
+      "subname": "SERVER #1",
+      "ip": "37.204.47.34",
+      "port": 7777,
+      "players": {
+        "type": "1",
+        "maxplayers": "1000",
+        "url_api": "https://api.samp-sc.com/cache/graph_groups.json",
+        "group_id": 25
+      }
+    }
+  ],
+  "links_header": [
+    {
+      "icon": "global",
+      "name": "Наш сайт",
+      "url": "https://vk.com"
+    },
+    {
+      "icon": "forum",
+      "name": "Форум",
+      "url": "https://vk.com"
+    },
+    {
+      "icon": "shop",
+      "name": "Магазин",
+      "url": "https://vk.com"
+    }
+  ],
+  "links_soc": [
+    {
+      "icon": "vk",
+      "url": "https://vk.com"
+    },
+    {
+      "icon": "youtube",
+      "url": "https://vk.com"
+    }
+  ],
+  "super_news": {
+    "show": true,
+    "title": "2020",
+    "subtitle": "Открытие близко",
+    "url": "https://vk.com",
+    "items": [
+      "• Название уникальности обновы",
+      "• Еще одна уникальность",
+      "• И тут тоже уникальность обновы",
+      "• И последний раз"
+    ]
+  },
+  "news": [
+    {
+      "name": "Самое глобальное обновление<br> на нашем сервере",
+      "date": "01.12.2018",
+      "url": "https://vk.com",
+      "img": "https://github.com/Revent-Launcher/DataAndSettings/raw/master/banner1.png",
+      "desc": "I need to apply a white to transparent gradient which covers about a 1/4 of the top of the page and a background image visible for the rest of the page. Im looking to achieve a seamless blend from a gradient to a textured image and to do this in CSS3."
+    },
+    {
+      "name": "Самое глобальное обновление<br> на нашем сервере",
+      "date": "01.12.2018",
+      "url": "https://vk.com",
+      "img": "https://github.com/Revent-Launcher/DataAndSettings/raw/master/banner1.png",
+      "desc": "I need to apply a white to transparent gradient which covers about a 1/4 of the top of the page and a background image visible for the rest of the page. Im looking to achieve a seamless blend from a gradient to a textured image and to do this in CSS3."
+    },
+    {
+      "name": "Самое глобальное обновление<br> на нашем сервере",
+      "date": "01.12.2018",
+      "url": "https://vk.com",
+      "img": "https://github.com/Revent-Launcher/DataAndSettings/raw/master/banner1.png",
+      "desc": "I need to apply a white to transparent gradient which covers about a 1/4 of the top of the page and a background image visible for the rest of the page. Im looking to achieve a seamless blend from a gradient to a textured image and to do this in CSS3."
+    }
+  ],
+  "self": {
+    "hash": "C22FC3F9444A5365D94F5E1799A174E82121E95FD5DFD9FEC14FA1BE5E3C5ACD",
+    "url": "https://revent-rp.ru/webseed/forify/update12.torrent"
+  },
+  "settings": {
+    "username_regxp": "^[a-zA-Z0-9_.-]{3,20}$"
+  },
+  "game": {
+    "torrentUrl": "https://revent-rp.ru/webseed/redfire/RED260520.torrent",
+    "gameFolder": "REDTEST",
+    "gameExe": "gta_sa.exe",
+    "enb": {
+      "dirName": "enb_config"
+    },
+    "entryCode": "3"
+  }
+}
