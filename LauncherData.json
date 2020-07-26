@@ -6,8 +6,8 @@
     {
       "name": "Redfire RP",
       "subname": "SERVER #1",
-      "ip": "37.204.47.34",
-      "port": 7777,
+      "ip": "213.32.112.225",
+      "port": 8888,
       "players": {
         "type": "1",
         "maxplayers": "1000",
@@ -16,31 +16,32 @@
       }
     }
   ],
+  
   "links_header": [
     {
       "icon": "global",
       "name": "Наш сайт",
-      "url": "https://vk.com"
+      "url": "https://vk.com/redfiregame"
     },
     {
       "icon": "forum",
       "name": "Форум",
-      "url": "https://vk.com"
+      "url": "https://forum.redfire.su"
     },
     {
       "icon": "shop",
       "name": "Магазин",
-      "url": "https://vk.com"
+      "url": "https://vk.com/redfiregame"
     }
   ],
   "links_soc": [
     {
       "icon": "vk",
-      "url": "https://vk.com"
+      "url": "https://vk.com/redfiregame"
     },
     {
       "icon": "youtube",
-      "url": "https://vk.com"
+      "url": "https://www.youtube.com/channel/UCPGbEhsuOl8s9B-VmC0wluw"
     }
   ],
   "super_news": {
@@ -79,19 +80,20 @@
     }
   ],
   "self": {
-    "hash": "C22FC3F9444A5365D94F5E1799A174E82121E95FD5DFD9FEC14FA1BE5E3C5ACD",
+    "hash": "2299B9CD460ACC1B4BC0E1775B9C13C443406C85F5CB8D9C02B09C5EB4BC34FB",
     "url": "https://revent-rp.ru/webseed/forify/update12.torrent"
   },
   "settings": {
     "username_regxp": "^[a-zA-Z0-9_.-]{3,20}$"
   },
   "game": {
-    "torrentUrl": "https://revent-rp.ru/webseed/redfire/RED260520.torrent",
-    "gameFolder": "REDTEST",
+    "torrentUrl": "https://revent-rp.ru/webseed/redfire/REDFIRE.torrent",
+    "gameFolder": "REDFIRE",
     "gameExe": "gta_sa.exe",
     "enb": {
       "dirName": "enb_config"
     },
-    "entryCode": "3"
+    "entryCode": "100500",
+    "defaultEnb": "low"
   }
 }
