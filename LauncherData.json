@@ -87,7 +87,7 @@
     "username_regxp": "^[a-zA-Z0-9_.-]{3,20}$"
   },
   "game": {
-    "torrentUrl": "https://revent-rp.ru/webseed/redfire/REDFIRE3.torrent",
+    "torrentUrl": "https://revent-rp.ru/webseed/redfire/REDFIRE7.torrent",
     "gameFolder": "REDFIRE",
     "gameExe": "gta_sa.exe",
     "enb": {
