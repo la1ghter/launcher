@@ -1,27 +1,23 @@
 {
   "admins": [
-    "admin"
+    "Miroslav_Korda", "Paul_Walker"
   ],
   "servers": [
     {
       "name": "Redfire RP",
       "subname": "SERVER #1",
       "ip": "213.32.112.225",
-      "port": 8888,
-      "players": {
-        "type": "1",
-        "maxplayers": "1000",
-        "url_api": "https://api.samp-sc.com/cache/graph_groups.json",
-        "group_id": 25
-      }
+      "port": "8888",
+      "players": "500",
+      "maxPlayers": "1000"
     }
   ],
-  
+  "servers_online_api": "https://redfire.su/launcher-api/online",
   "links_header": [
     {
       "icon": "global",
       "name": "Наш сайт",
-      "url": "https://vk.com/redfiregame"
+      "url": "https://redfire.su"
     },
     {
       "icon": "forum",
@@ -31,7 +27,7 @@
     {
       "icon": "shop",
       "name": "Магазин",
-      "url": "https://vk.com/redfiregame"
+      "url": "https://redfire.su/donate"
     }
   ],
   "links_soc": [
@@ -46,54 +42,43 @@
   ],
   "super_news": {
     "show": true,
-    "title": "2020",
-    "subtitle": "Открытие близко",
-    "url": "https://vk.com",
     "items": [
-      "• Название уникальности обновы",
-      "• Еще одна уникальность",
-      "• И тут тоже уникальность обновы",
-      "• И последний раз"
+      "• Отличная новость дня:",
+      "• Открытие уже 22 августа!"
     ]
   },
   "news": [
     {
-      "name": "Самое глобальное обновление<br> на нашем сервере",
-      "date": "01.12.2018",
-      "url": "https://vk.com",
-      "img": "https://github.com/Revent-Launcher/DataAndSettings/raw/master/banner1.png",
-      "desc": "I need to apply a white to transparent gradient which covers about a 1/4 of the top of the page and a background image visible for the rest of the page. Im looking to achieve a seamless blend from a gradient to a textured image and to do this in CSS3."
-    },
-    {
-      "name": "Самое глобальное обновление<br> на нашем сервере",
-      "date": "01.12.2018",
-      "url": "https://vk.com",
-      "img": "https://github.com/Revent-Launcher/DataAndSettings/raw/master/banner1.png",
-      "desc": "I need to apply a white to transparent gradient which covers about a 1/4 of the top of the page and a background image visible for the rest of the page. Im looking to achieve a seamless blend from a gradient to a textured image and to do this in CSS3."
-    },
-    {
-      "name": "Самое глобальное обновление<br> на нашем сервере",
-      "date": "01.12.2018",
-      "url": "https://vk.com",
-      "img": "https://github.com/Revent-Launcher/DataAndSettings/raw/master/banner1.png",
-      "desc": "I need to apply a white to transparent gradient which covers about a 1/4 of the top of the page and a background image visible for the rest of the page. Im looking to achieve a seamless blend from a gradient to a textured image and to do this in CSS3."
+      "name": "Открытие сервера<br>22 августа",
+      "date": "20.08.2020",
+      "url": "https://vk.com/redfiregame",
+      "img": "https://raw.githubusercontent.com/la1ghter/launcher/master/8qF6WRV9dzU.jpg",
+      "desc": "Вы сможете попасть на сервер только в день открытия!"
     }
   ],
   "self": {
-    "hash": "2299B9CD460ACC1B4BC0E1775B9C13C443406C85F5CB8D9C02B09C5EB4BC34FB",
-    "url": "https://revent-rp.ru/webseed/forify/update12.torrent"
+    "hash": "FF330F03C70AC730FA002C07FFC3F3EB283359BEDA7C275B81C72CA07B270B73",
+    "url": "https://revent-rp.ru/webseed/forify/update_one.torrent"
   },
   "settings": {
     "username_regxp": "^[a-zA-Z0-9_.-]{3,20}$"
   },
   "game": {
-    "torrentUrl": "https://revent-rp.ru/webseed/redfire/REDFIRE11.torrent",
+    "torrentUrl": "https://revent-rp.ru/webseed/game/REDFIRE_RED.torrent",
     "gameFolder": "REDFIRE",
     "gameExe": "gta_sa.exe",
     "enb": {
       "dirName": "enb_config"
     },
-    "entryCode": "100500",
-    "defaultEnb": "low"
+    "entryCode": "3",
+    "version": "1.0.0",
+    "defaultEnb": "low",
+    "encryptedFiles": [
+      "/data/gen/HANDLING.CFG",
+      "/data/gen/PEDS.IDE",
+      "/data/gen/VEHICLES.IDE",
+      "/models/map.ipl",
+      "/samp/custom.ide"
+    ]
   }
 }
