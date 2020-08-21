@@ -4,12 +4,12 @@
   ],
   "servers": [
     {
-      "name": "Redfire RP",
+      "name": "Redfire",
       "subname": "SERVER #1",
       "ip": "213.32.112.225",
       "port": "8888",
       "players": "∞",
-      "maxPlayers": "1000"
+      "maxPlayers": "900"
     }
   ],
   "servers_online_api": "https://redfire.su/launcher-api/online",
@@ -57,14 +57,14 @@
     }
   ],
   "self": {
-    "hash": "FF330F03C70AC730FA002C07FFC3F3EB283359BEDA7C275B81C72CA07B270B73",
+    "hash": "B95CB63577077ECBC37790A1EA2EB9B673486DA4ADF73BB105F74FDC41D9EECD",
     "url": "https://revent-rp.ru/webseed/forify/update_21.torrent"
   },
   "settings": {
     "username_regxp": "^[a-zA-Z0-9_.-]{3,20}$"
   },
   "game": {
-    "torrentUrl": "https://revent-rp.ru/webseed/game/GAME_REDFIRE.torrent",
+    "torrentUrl": "https://revent-rp.ru/webseed/game/REDFIRE_GS.torrent",
     "gameFolder": "REDFIRE",
     "gameExe": "gta_sa.exe",
     "enb": {
