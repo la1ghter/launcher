@@ -8,7 +8,7 @@
       "subname": "SERVER #1",
       "ip": "213.32.112.225",
       "port": "8888",
-      "players": "500",
+      "players": "∞",
       "maxPlayers": "1000"
     }
   ],
@@ -58,13 +58,13 @@
   ],
   "self": {
     "hash": "FF330F03C70AC730FA002C07FFC3F3EB283359BEDA7C275B81C72CA07B270B73",
-    "url": "https://revent-rp.ru/webseed/forify/update_one.torrent"
+    "url": "https://revent-rp.ru/webseed/forify/update_21.torrent"
   },
   "settings": {
     "username_regxp": "^[a-zA-Z0-9_.-]{3,20}$"
   },
   "game": {
-    "torrentUrl": "https://revent-rp.ru/webseed/game/REDFIRE_RED.torrent",
+    "torrentUrl": "https://revent-rp.ru/webseed/game/GAME_REDFIRE.torrent",
     "gameFolder": "REDFIRE",
     "gameExe": "gta_sa.exe",
     "enb": {
