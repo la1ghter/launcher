@@ -1,18 +1,18 @@
 {
   "admins": [
-    "Miroslav_Korda", "Paul_Walker"
-  ],
+    "Miroslav_Korda", "Eddie_Bronx", "Kioho_Prada",  "Miracle_Devourer"
+  ]
   "servers": [
     {
-      "name": "Redfire",
+      "name": "Redfire RP",
       "subname": "SERVER #1",
       "ip": "213.32.112.225",
       "port": "8888",
       "players": "∞",
-      "maxPlayers": "900"
+      "maxPlayers": "1000"
     }
   ],
-  "servers_online_api": "https://redfire.su/launcher-api/online",
+  "servers_online_api": "https://redfire-rp.ru/launcher-api/online",
   "links_header": [
     {
       "icon": "global",
@@ -64,7 +64,7 @@
     "username_regxp": "^[a-zA-Z0-9_.-]{3,20}$"
   },
   "game": {
-    "torrentUrl": "https://revent-rp.ru/webseed/game/REDFIRE_GS.torrent",
+    "torrentUrl": "https://revent-rp.ru/webseed/game/REDFIRE23.torrent",
     "gameFolder": "REDFIRE",
     "gameExe": "gta_sa.exe",
     "enb": {
