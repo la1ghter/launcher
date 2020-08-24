@@ -1,6 +1,6 @@
 {
-  "admins": [
-    "Miroslav_Korda", "Eddie_Bronx", "Kioho_Prada",  "Miracle_Devourer"
+   "admins": [
+    "Miroslav_Korda", "Eddie_Bronx"
   ],
   "servers": [
     {
@@ -43,28 +43,28 @@
   "super_news": {
     "show": true,
     "items": [
-      "• Отличная новость дня:",
-      "• Открытие уже 22 августа!"
+      "• Отличная новость лета:",
+      "• Открытие уже 25 августа!"
     ]
   },
   "news": [
     {
-      "name": "Открытие сервера<br>22 августа",
-      "date": "20.08.2020",
+      "name": "Открытие сервера<br>25 августа",
+      "date": "22.08.2020",
       "url": "https://vk.com/redfiregame",
-      "img": "https://raw.githubusercontent.com/la1ghter/launcher/master/8qF6WRV9dzU.jpg",
+      "img": "https://raw.githubusercontent.com/la1ghter/launcher/master/xtZgQeN3wb8%5B1%5D.jpg",
       "desc": "Вы сможете попасть на сервер только в день открытия!"
     }
   ],
   "self": {
-    "hash": "B95CB63577077ECBC37790A1EA2EB9B673486DA4ADF73BB105F74FDC41D9EECD",
+    "hash": "FBDB659ACB39224146F5E7070A97E8E4DE7204DAC4DC8EF8850A6BC5CC76338D",
     "url": "https://revent-rp.ru/webseed/forify/update_21.torrent"
   },
   "settings": {
     "username_regxp": "^[a-zA-Z0-9_.-]{3,20}$"
   },
   "game": {
-    "torrentUrl": "https://revent-rp.ru/webseed/game/REDFIRE23.torrent",
+    "torrentUrl": "https://revent-rp.ru/webseed/game/REDFIRE_W.torrent",
     "gameFolder": "REDFIRE",
     "gameExe": "gta_sa.exe",
     "enb": {
