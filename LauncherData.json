@@ -44,12 +44,12 @@
     "show": true,
     "items": [
       "• Отличная новость лета:",
-      "• Открытие уже 25 августа!"
+      "• Открытие уже 26 августа!"
     ]
   },
   "news": [
     {
-      "name": "Открытие сервера<br>25 августа",
+      "name": "Открытие сервера<br>26 августа",
       "date": "22.08.2020",
       "url": "https://vk.com/redfiregame",
       "img": "https://raw.githubusercontent.com/la1ghter/launcher/master/xtZgQeN3wb8%5B1%5D.jpg",
@@ -64,7 +64,7 @@
     "username_regxp": "^[a-zA-Z0-9_.-]{3,20}$"
   },
   "game": {
-    "torrentUrl": "https://revent-rp.ru/webseed/game/REDFIRE_W.torrent",
+    "torrentUrl": "https://revent-rp.ru/webseed/game/REDFIRE_GAME.torrent",
     "gameFolder": "REDFIRE",
     "gameExe": "gta_sa.exe",
     "enb": {
