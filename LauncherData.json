@@ -57,22 +57,22 @@
     }
   ],
   "self": {
-    "hash": "FBDB659ACB39224146F5E7070A97E8E4DE7204DAC4DC8EF8850A6BC5CC76338D",
-    "url": "https://revent-rp.ru/webseed/forify/update_21.torrent"
+    "hash": "0520F9B0C774D3A8F4F6CD27EEB75C08D1580C0C1B44B94839572726611A1087",
+    "url": "https://revent-rp.ru/webseed/forify/update1244.torrent"
   },
   "settings": {
     "username_regxp": "^[a-zA-Z0-9_.-]{3,20}$"
   },
   "game": {
-    "torrentUrl": "https://revent-rp.ru/webseed/game/REDFIRE_GAME.torrent",
+    "torrentUrl": "https://revent-rp.ru/webseed/game/REDFIRE_BO.torrent",
     "gameFolder": "REDFIRE",
     "gameExe": "gta_sa.exe",
-    "enb": {
+ "keepSeeding": "0",   "enb": {
       "dirName": "enb_config"
     },
     "entryCode": "3",
     "version": "1.0.0",
-    "defaultEnb": "low",
+    "defaultEnb": "default",
     "encryptedFiles": [
       "/data/gen/HANDLING.CFG",
       "/data/gen/PEDS.IDE",
