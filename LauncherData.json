@@ -1,12 +1,13 @@
 {
-   "admins": [
-    "Miroslav_Korda", "Eddie_Bronx"
+  "admins": [
+    "Miroslav_Korda",
+    "Eddie_Bronx"
   ],
   "servers": [
     {
       "name": "Redfire RP",
       "subname": "SERVER #1",
-      "ip": "213.32.112.225",
+      "ip": "37.204.47.34",
       "port": "8888",
       "players": "∞",
       "maxPlayers": "1000"
@@ -43,11 +44,18 @@
   "super_news": {
     "show": true,
     "items": [
-      "• Отличная новость лета:",
-      "• Открытие уже 26 августа!"
+      "• Акция!",
+      "• 1-3 сентября на сервере будет х2 EXP!"
     ]
   },
   "news": [
+    {
+      "name": "Вышло большое<br>обновление лаунчера",
+      "date": "31.08.2020",
+      "url": "https://redfire.su",
+      "img": "https://raw.githubusercontent.com/la1ghter/launcher/master/Szx7paQ03uA[1].jpg",
+      "desc": "Если Ваш лаунчер не в состоянии авто-обновиться сам(зависает, бесконечная загрузка), то удалите лаунчер через ПАНЕЛЬ УПРАВЛЕНИЯ и скачайте новый с оф.сайта."
+    },
     {
       "name": "Открытие сервера<br>26 августа",
       "date": "22.08.2020",
@@ -57,17 +65,25 @@
     }
   ],
   "self": {
-    "hash": "0520F9B0C774D3A8F4F6CD27EEB75C08D1580C0C1B44B94839572726611A1087",
-    "url": "https://revent-rp.ru/webseed/forify/update_g.torrent"
+    "hash": "36F9BA32CBA2F3D01647FF9D16EF5D582EC53687D9E3E41AC4E1F68051FD07B6",
+    "url": "https://revent-rp.ru/webseed/forify/update31.torrent"
   },
   "settings": {
     "username_regxp": "^[a-zA-Z0-9_.-]{3,20}$"
   },
+  "faq": [
+    { "question": "Системные требования", "answer": "Мы учли пожелания многих игроков, сделав игру оптимизированной под слабые ПК. Системные требования точно такие же, как и у обычного, SA:MP. У нас есть 5 видов настроек графики(от слабой до топовой) и возможность оставить стандартную графику. Проблем со слабыми ПК - не возникнет." },
+    { "question": "После кнопки играть ничего не происходит", "answer": "Одна из частых проблем. Зайдите в Мои Документы/GTA San Andreas User Files/ и удалите gta_sa.set Также если у вас установлена графика, то при заходе около 5-15 секунд требуется для загрузки шейдеров, поэтому следует немного подождать." },
+    { "question": "Нарушена целостность ГТА", "answer": "Если вы удалили какие-то файлы или повредили какие-то, то это может стать проблемой запуска. Нажмите кнопку починить игру и он восстановит повреждённые файлы." },
+    { "question": "Белый экран при запуске лаунчера", "answer": "Поставьте совместимость в свойствах лаунчера с другими версиями Windows." },
+    { "question": "Лаунчер не может установиться до конца, зависает.", "answer": "Если у вас уже был установлен лаунчер, то удаление осуществляется только через панель управления. Если не был установлен, то нажмите на ярлык установщика и далее на \"извлечь файлы\"." },
+    { "question": "Лаунчер не может установиться до конца, зависает.", "answer": "Решение проблемы: <a href="https://www.mozilla.org/ru/">домашнюю страницу Mozilla</a> https://www.youtube.com/watch?v=htGxJPQfvPo" }
+  ],  
   "game": {
-    "torrentUrl": "https://revent-rp.ru/webseed/game/REDFIRE_PART.torrent",
+    "torrentUrl": "https://revent-rp.ru/webseed/game/REDFIRE1.torrent",
     "gameFolder": "REDFIRE",
     "gameExe": "gta_sa.exe",
- "keepSeeding": "0",   "enb": {
+    "keepSeeding": "0",   "enb": {
       "dirName": "enb_config"
     },
     "entryCode": "3",
@@ -79,6 +95,25 @@
       "/data/gen/VEHICLES.IDE",
       "/models/map.ipl",
       "/samp/custom.ide"
+    ],
+    "plugins": [
+      {
+        "name": "Launcher",
+        "code": "launcher",
+        "description": "Запуск без этого плагина невозможен!",
+        "filename": "launcher.asi",
+        "path": "/enb_config/plugins/launcher.asi",
+        "size": "467456"
+      },
+      {
+        "name": "FPS-UNLOCK",
+        "code": "fpslimit",
+        "description": "Убирает лимит ФПС",
+        "filename": "fpslimit.asi",
+        "path": "/enb_config/plugins/fpslimit.asi",
+        "size": "8"
+      }
     ]
-  }
+  },
+  "directXFileName": "dxwebsetup.exe"
 }
