@@ -13,7 +13,7 @@
       "maxPlayers": "1000"
     }
   ],
-  "servers_online_api": "https://redfire-rp.ru/launcher-api/online",
+  "servers_online_api": "",
   "links_header": [
     {
       "icon": "global",
