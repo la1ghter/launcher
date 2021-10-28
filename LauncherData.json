@@ -1,17 +1,16 @@
 {
   "admins": [
     "Miroslav_Korda",
-	"test",
     "Eddie_Bronx"
   ],
   "servers": [
     {
       "name": "Redfire RP",
-      "subname": "SERVER #12",
-      "ip": "80.66.82.249:7777",
-      "port": "8887",
+      "subname": "SERVER #1",
+      "ip": "37.204.47.34",
+      "port": "8888",
       "players": "∞",
-      "maxPlayers": "900"
+      "maxPlayers": "1000"
     }
   ],
   "servers_online_api": "https://redfire-rp.ru/launcher-api/online",
@@ -45,21 +44,28 @@
   "super_news": {
     "show": true,
     "items": [
-      "• Это Редфаир!!",
-      "• Прочитал это? Не попадёшь на открытие!"
+      "• Акция!",
+      "• 1-3 сентября на сервере будет х2 EXP!"
     ]
   },
   "news": [
     {
-      "name": "Скоро открытие!<br>",
-      "date": "05.08.2021",
+      "name": "Вышло большое<br>обновление лаунчера",
+      "date": "31.08.2020",
+      "url": "https://redfire.su",
+      "img": "https://raw.githubusercontent.com/la1ghter/launcher/master/Szx7paQ03uA[1].jpg",
+      "desc": "Если Ваш лаунчер не в состоянии авто-обновиться сам(зависает, бесконечная загрузка), то удалите лаунчер через ПАНЕЛЬ УПРАВЛЕНИЯ и скачайте новый с оф.сайта."
+    },
+    {
+      "name": "Открытие сервера<br>26 августа",
+      "date": "22.08.2020",
       "url": "https://vk.com/redfiregame",
       "img": "https://raw.githubusercontent.com/la1ghter/launcher/master/xtZgQeN3wb8%5B1%5D.jpg",
-      "desc": "Просто текст"
+      "desc": "Вы сможете попасть на сервер только в день открытия!"
     }
   ],
   "self": {
-    "hash": "E5F42B27EDE500B7CFB91D3612A05D9725DA22C0549100EAB3A7306E83C25023",
+    "hash": "36F9BA32CBA2F3D01647FF9D16EF5D582EC53687D9E3E41AC4E1F68051FD07B6",
     "url": "https://revent-rp.ru/webseed/forify/update31.torrent"
   },
   "settings": {
@@ -71,18 +77,18 @@
     { "question": "Нарушена целостность ГТА", "answer": "Если вы удалили какие-то файлы или повредили какие-то, то это может стать проблемой запуска. Нажмите кнопку починить игру и он восстановит повреждённые файлы." },
     { "question": "Белый экран при запуске лаунчера", "answer": "Поставьте совместимость в свойствах лаунчера с другими версиями Windows." },
     { "question": "Лаунчер не может установиться до конца, зависает.", "answer": "Если у вас уже был установлен лаунчер, то удаление осуществляется только через панель управления. Если не был установлен, то нажмите на ярлык установщика и далее на \"извлечь файлы\"." },
-    { "question": "Лаунчер не может установиться до конца, зависает.", "answer": "Решение проблемы:  https://www.youtube.com/watch?v=htGxJPQfvPo " }
-  ],  
+    { "question": "Лаунчер не может установиться до конца, зависает.", "answer": "Решение проблемы: https://www.youtube.com/watch?v=htGxJPQfvPo" }
+  ],
   "game": {
-    "torrentUrl": "https://revent-rp.ru/webseed/game/REDFIRE2.torrent",
+    "torrentUrl": "https://revent-rp.ru/webseed/game/REDFIRE.torrent",
     "gameFolder": "REDFIRE",
     "gameExe": "gta_sa.exe",
     "keepSeeding": "0",   "enb": {
       "dirName": "enb_config"
     },
     "entryCode": "3",
-    "version": "1.0.0",
-    "defaultEnb": "default2",
+    "version": "1.0.2",
+    "defaultEnb": "default",
     "encryptedFiles": [
       "/data/gen/HANDLING.CFG",
       "/data/gen/PEDS.IDE",
@@ -92,12 +98,20 @@
     ],
     "plugins": [
       {
+        "name": "Launcher",
+        "code": "launcher",
+        "description": "Запуск без этого плагина невозможен!",
+        "filename": "launcher.asi",
+        "path": "/enb_config/plugins/launcher.asi",
+        "size": "457"
+      },
+      {
         "name": "FPS-UNLOCK",
         "code": "fpslimit",
         "description": "Убирает лимит ФПС",
         "filename": "fpslimit.asi",
         "path": "/enb_config/plugins/fpslimit.asi",
-        "size": "7680"
+        "size": "8"
       }
     ]
   },
