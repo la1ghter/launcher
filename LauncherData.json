@@ -7,11 +7,11 @@
   "servers": [
     {
       "name": "Redfire RP",
-      "subname": "SERVER #1",
+      "subname": "SERVER #12",
       "ip": "80.66.82.249:7777",
       "port": "8887",
       "players": "∞",
-      "maxPlayers": "1000"
+      "maxPlayers": "900"
     }
   ],
   "servers_online_api": "https://redfire-rp.ru/launcher-api/online",
@@ -74,7 +74,7 @@
     { "question": "Лаунчер не может установиться до конца, зависает.", "answer": "Решение проблемы:  https://www.youtube.com/watch?v=htGxJPQfvPo " }
   ],  
   "game": {
-    "torrentUrl": "https://revent-rp.ru/webseed/game/REDFIRE2810.torrent",
+    "torrentUrl": "https://revent-rp.ru/webseed/game/REDFIRE2.torrent",
     "gameFolder": "REDFIRE",
     "gameExe": "gta_sa.exe",
     "keepSeeding": "0",   "enb": {
