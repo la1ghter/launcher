@@ -1,14 +1,15 @@
 {
   "admins": [
     "Miroslav_Korda",
+	"test",
     "Eddie_Bronx"
   ],
   "servers": [
     {
       "name": "Redfire RP",
       "subname": "SERVER #1",
-      "ip": "37.204.47.34",
-      "port": "7777",
+      "ip": "80.66.82.249:7777",
+      "port": "8887",
       "players": "∞",
       "maxPlayers": "1000"
     }
@@ -73,14 +74,14 @@
     { "question": "Лаунчер не может установиться до конца, зависает.", "answer": "Решение проблемы:  https://www.youtube.com/watch?v=htGxJPQfvPo " }
   ],  
   "game": {
-    "torrentUrl": "https://revent-rp.ru/webseed/game/REDFIRE21.torrent",
+    "torrentUrl": "https://revent-rp.ru/webseed/game/REDFIRE2810.torrent",
     "gameFolder": "REDFIRE",
     "gameExe": "gta_sa.exe",
     "keepSeeding": "0",   "enb": {
       "dirName": "enb_config"
     },
     "entryCode": "3",
-    "version": "1.0.1",
+    "version": "1.0.0",
     "defaultEnb": "default2",
     "encryptedFiles": [
       "/data/gen/HANDLING.CFG",
