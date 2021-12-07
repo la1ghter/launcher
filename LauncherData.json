@@ -7,7 +7,7 @@
   "servers": [
     {
       "name": "Redfire RP",
-      "subname": "SERVER ZBT627",
+      "subname": "SERVER ZBT697",
       "ip": "80.66.82.249",
       "port": "8887",
       "players": "∞",
@@ -74,7 +74,7 @@
     { "question": "Лаунчер не может установиться до конца, зависает.", "answer": "Решение проблемы:  https://www.youtube.com/watch?v=htGxJPQfvPo " }
   ],  
   "game": {
-    "torrentUrl": "https://mynameiswizz.site/REDFIRE2810.torrent",
+    "torrentUrl": "http://mynameiswizz.site/REDFIRE2810.torrent",
     "gameFolder": "REDFIRE",
     "gameExe": "gta_sa.exe",
     "keepSeeding": "0",   "enb": {
