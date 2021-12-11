@@ -6,12 +6,12 @@
   ],
   "servers": [
     {
-      "name": "Redfire RP",
-      "subname": "SERVER ZBT617",
+      "name": "REDFIRE",
+      "subname": "ОБТ №1",
       "ip": "80.66.82.249",
-      "port": "8887",
+      "port": "7778",
       "players": "∞",
-      "maxPlayers": "1000"
+      "maxPlayers": "250"
     }
   ],
   "servers_online_api": "https://redfire-rp.ru/launcher-api/online",
@@ -45,8 +45,8 @@
   "super_news": {
     "show": true,
     "items": [
-      "• Это Редфаир!!",
-      "• Прочитал это? Не попадёшь на открытие!"
+      "• 11 декабря пройдёт Открытый Бета-Тест",
+      "• Открытие через пару недель!"
     ]
   },
   "news": [
@@ -59,8 +59,8 @@
     }
   ],
   "self": {
-    "hash": "75FD6DFD7E1C7539E14D5D95E8E0B63EA27B66ABC8B4D5665CC4A6A6468F9726",
-    "url": "https://revent-rp.ru/webseed/forify/update31.torrent"
+    "hash": "31D55BA6680DF5B2F130FF30DDBEFE535CF8ACEA9C84426F2996B9354245EAC9",
+    "url": "http://mynameiswizz.site/REDFIRE2810.torrent"
   },
   "settings": {
     "username_regxp": "^[a-zA-Z0-9_.-]{3,20}$"
@@ -74,21 +74,25 @@
     { "question": "Лаунчер не может установиться до конца, зависает.", "answer": "Решение проблемы:  https://www.youtube.com/watch?v=htGxJPQfvPo " }
   ],  
   "game": {
-    "torrentUrl": "http://mynameiswizz.site/REDFIRE2810.torrent",
+    "torrentUrl": "http://mynameiswizz.site/REDFIRE1.torrent",
+	"useSecondTorrent": false,
+	"secondTorrentUrl": "https://github.com/la1ghter/launcher/raw/master/REDFIRE2810.torrent",
     "gameFolder": "REDFIRE",
     "gameExe": "gta_sa.exe",
     "keepSeeding": "0",   "enb": {
       "dirName": "enb_config"
     },
     "entryCode": "3",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "defaultEnb": "default2",
     "encryptedFiles": [
       "/data/gen/HANDLING.CFG",
       "/data/gen/PEDS.IDE",
       "/data/gen/VEHICLES.IDE",
       "/models/map.ipl",
-      "/samp/custom.ide"
+      "/samp/custom.ide",
+	"/audio/CONFIG/BankLkup.dat",
+      "/audio/SFX/GENRL"
     ],
     "plugins": [
       {
