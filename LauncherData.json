@@ -6,12 +6,12 @@
   ],
   "servers": [
     {
-      "name": "REDFIRE",
-      "subname": "ОБТ №1",
-      "ip": "80.66.82.249",
-      "port": "7778",
+      "name": "Redfire RP",
+      "subname": "ZБТ #1",
+      "ip": "80.66.82.161",
+      "port": "7777",
       "players": "∞",
-      "maxPlayers": "250"
+      "maxPlayers": "900"
     }
   ],
   "servers_online_api": "https://redfire-rp.ru/launcher-api/online",
@@ -45,22 +45,22 @@
   "super_news": {
     "show": true,
     "items": [
-      "• 11 декабря пройдёт Открытый Бета-Тест",
-      "• Открытие через пару недель!"
+      "• Графика регулируется в лаунчере",
+      "• Для слабых ПК: стандартная-плюс"
     ]
   },
   "news": [
     {
       "name": "Скоро открытие!<br>",
-      "date": "05.08.2021",
+      "date": "03.01.2022",
       "url": "https://vk.com/redfiregame",
-      "img": "https://raw.githubusercontent.com/la1ghter/launcher/master/xtZgQeN3wb8%5B1%5D.jpg",
-      "desc": "Просто текст"
+      "img": "https://raw.githubusercontent.com/la1ghter/launcher/master/ptiKI4PCTNI.jpg",
+      "desc": "Открытие проекта состоится 6 января в 18:00(мск)!"
     }
   ],
   "self": {
     "hash": "31D55BA6680DF5B2F130FF30DDBEFE535CF8ACEA9C84426F2996B9354245EAC9",
-    "url": "http://mynameiswizz.site/REDFIRE2810.torrent"
+    "url": "http://mynameiswizz.site/REDFIRE1512.torrent"
   },
   "settings": {
     "username_regxp": "^[a-zA-Z0-9_.-]{3,20}$"
@@ -74,16 +74,16 @@
     { "question": "Лаунчер не может установиться до конца, зависает.", "answer": "Решение проблемы:  https://www.youtube.com/watch?v=htGxJPQfvPo " }
   ],  
   "game": {
-    "torrentUrl": "https://github.com/la1ghter/launcher/raw/master/REDFIRE1.torrent",
+    "torrentUrl": "http://mynameiswizz.site/REDFIRE8.torrent",
 	"useSecondTorrent": false,
-	"secondTorrentUrl": "https://github.com/la1ghter/launcher/raw/master/REDFIRE2810.torrent",
+	"secondTorrentUrl": "https://github.com/la1ghter/launcher/raw/master/REDFIRE1812.torrent",
     "gameFolder": "REDFIRE",
     "gameExe": "gta_sa.exe",
     "keepSeeding": "0",   "enb": {
       "dirName": "enb_config"
     },
     "entryCode": "3",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "defaultEnb": "default2",
     "encryptedFiles": [
       "/data/gen/HANDLING.CFG",
@@ -91,17 +91,44 @@
       "/data/gen/VEHICLES.IDE",
       "/models/map.ipl",
       "/samp/custom.ide",
-	"/audio/CONFIG/BankLkup.dat",
-      "/audio/SFX/GENRL"
+	  "/data/dynamiczones.dat",
+	  "/audio/CONFIG/BankLkup.dat",
+	  "/models/grass/redfire1.img",
+	  "/models/grass/redfire3.img",
+	  "/models/gta3.img"
     ],
     "plugins": [
       {
         "name": "FPS-UNLOCK",
         "code": "fpslimit",
-        "description": "Убирает лимит ФПС",
+        "description": "Снимает лимит ФПС(не рекомендуем к игре с ENB)",
         "filename": "fpslimit.asi",
         "path": "/enb_config/plugins/fpslimit.asi",
         "size": "7680"
+      },
+	   {
+        "name": "Nopostfx",
+        "code": "nopostfx",
+        "description": "Отключает постобработку и увеличивает ФПС(для слабых ПК). Игра станет тусклой.",
+        "filename": "nopostfx.asi",
+        "path": "/enb_config/plugins/nopostfx.asi",
+        "size": "8192"
+      },
+	  {
+        "name": "Widescreen",
+        "code": "widescreen",
+        "description": "Фикс для широкоформатных мониторов",
+        "filename": "widescreen.asi",
+        "path": "/enb_config/plugins/widescreen.asi",
+        "size": "65024"
+      },
+	   {
+        "name": "Fix Black Roads",
+        "code": "fixblackroads",
+        "description": "Исправляет чёрные полосы на дорогах в далеке",
+        "filename": "fixblackroads.asi",
+        "path": "/enb_config/plugins/fixblackroads.asi",
+        "size": "7168"
       }
     ]
   },
