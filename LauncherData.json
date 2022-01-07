@@ -1,20 +1,35 @@
 {
   "admins": [
     "Miroslav_Korda",
-	"test",
-    "Eddie_Bronx"
+	"Lonquzze_Escoreze",
+    "Eddie_Bronx",
+	"Matteo_Estebane",
+	"Fabio_Espada",
+	"Kohaku_Nagadzima",
+	"Duno_Passion",
+	"Courier_Chen",
+	"Andrew_Snoop",
+	"Giovanni_Remmarque",
+	"Thomas_Dilmore",
+	"Glen_East" ,
+	"Ronnie_Ramirez",
+	"Fearless_Apostol ",
+	"Malfoy_Devourer ",
+	"Marsik_Mur",
+	"Iratez_Fearless",
+	"Baroko_Expert"
   ],
   "servers": [
     {
       "name": "Redfire RP",
-      "subname": "ZБТ #1",
+      "subname": "REDFIRE #1",
       "ip": "80.66.82.161",
       "port": "7777",
-      "players": "∞",
+      "players": "900",
       "maxPlayers": "900"
     }
-  ],
-  "servers_online_api": "https://redfire-rp.ru/launcher-api/online",
+  ], 
+  "servers_online_api": "https://redfire.su/launcher-api/online",
   "links_header": [
     {
       "icon": "global",
@@ -101,7 +116,7 @@
       {
         "name": "FPS-UNLOCK",
         "code": "fpslimit",
-        "description": "Снимает лимит ФПС(не рекомендуем к игре с ENB)",
+        "description": "Снимает лимит ФПС",
         "filename": "fpslimit.asi",
         "path": "/enb_config/plugins/fpslimit.asi",
         "size": "7680"
