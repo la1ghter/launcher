@@ -13,8 +13,8 @@
 	"Thomas_Dilmore",
 	"Glen_East" ,
 	"Ronnie_Ramirez",
-	"Fearless_Apostol ",
-	"Malfoy_Devourer ",
+	"Fearless_Apostol",
+	"Malfoy_Devourer",
 	"Marsik_Mur",
 	"Iratez_Fearless",
 	"Baroko_Expert"
@@ -22,14 +22,14 @@
   "servers": [
     {
       "name": "Redfire RP",
-      "subname": "REDFIRE #1",
+      "subname": "REDFIRE 1",
       "ip": "80.66.82.161",
       "port": "7777",
       "players": "900",
       "maxPlayers": "900"
     }
   ], 
-  "servers_online_api": "https://redfire.su/launcher-api/online",
+  "servers_online_api": "http://redfire.su/launcher-api/online",
   "links_header": [
     {
       "icon": "global",
