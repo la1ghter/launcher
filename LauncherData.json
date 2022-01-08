@@ -22,14 +22,14 @@
   "servers": [
     {
       "name": "Redfire RP",
-      "subname": "REDFIRE 1",
+      "subname": "REDFIRE №1",
       "ip": "80.66.82.161",
       "port": "7777",
       "players": "900",
       "maxPlayers": "900"
     }
   ], 
-  "servers_online_api": "http://redfire.su/launcher-api/online",
+  "servers_online_api": "http://mynameiswizz.site/online.php",
   "links_header": [
     {
       "icon": "global",
