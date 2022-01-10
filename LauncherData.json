@@ -1,35 +1,37 @@
 {
   "admins": [
-    "Miroslav_Korda",
-	"Lonquzze_Escoreze",
-    "Eddie_Bronx",
-	"Matteo_Estebane",
-	"Fabio_Espada",
-	"Kohaku_Nagadzima",
-	"Duno_Passion",
-	"Courier_Chen",
-	"Andrew_Snoop",
-	"Giovanni_Remmarque",
-	"Thomas_Dilmore",
-	"Glen_East" ,
-	"Ronnie_Ramirez",
-	"Fearless_Apostol",
-	"Malfoy_Devourer",
-	"Marsik_Mur",
-	"Iratez_Fearless",
-	"Baroko_Expert"
+"Miroslav_Korda",
+"Lonquzze_Escoreze",
+"Eddie_Bronx",
+"Matteo_Estebane",
+"Fabio_Espada",
+"Kohaku_Nagadzima",
+"Duno_Passion",
+"Courier_Chen",
+"Andrew_Snoop",
+"Giovanni_Remmarque",
+"Thomas_Dilmore",
+"Elizabeth_Hansson",
+"Braga_Hatraited",
+"Glen_East",
+"Ronnie_Ramirez",
+"Fearless_Apostol",
+"Malfoy_Devourer",
+"Marsik_Mur",
+"Iratez_Fearless",
+"Baroko_Expert"
   ],
   "servers": [
     {
       "name": "Redfire RP",
-      "subname": "REDFIRE 1",
+      "subname": "REDFIRE #1",
       "ip": "80.66.82.161",
       "port": "7777",
       "players": "900",
       "maxPlayers": "900"
     }
   ], 
-  "servers_online_api": "http://mynameiswizz.site/online-data.php",
+  "servers_online_api": "https://mynameiswizz.site/online.php",
   "links_header": [
     {
       "icon": "global",
@@ -109,6 +111,8 @@
 	  "/data/dynamiczones.dat",
 	  "/audio/CONFIG/BankLkup.dat",
 	  "/models/grass/redfire1.img",
+	  "/models/grass/redfire4.img",
+	  "/models/grass/redfire2.img",
 	  "/models/grass/redfire3.img",
 	  "/models/gta3.img"
     ],
