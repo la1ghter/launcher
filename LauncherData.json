@@ -24,7 +24,7 @@
   "servers": [
     {
       "name": "Redfire RP",
-      "subname": "REDFIRE #1",
+      "subname": "REDFIRE 1",
       "ip": "80.66.82.161",
       "port": "7777",
       "players": "900",
@@ -91,7 +91,7 @@
     { "question": "Лаунчер не может установиться до конца, зависает.", "answer": "Решение проблемы:  https://www.youtube.com/watch?v=htGxJPQfvPo " }
   ],  
   "game": {
-    "torrentUrl": "http://mynameiswizz.site/REDFIRE8.torrent",
+    "torrentUrl": "http://mynameiswizz.site/REDFIRE15.torrent",
 	"useSecondTorrent": false,
 	"secondTorrentUrl": "https://github.com/la1ghter/launcher/raw/master/REDFIRE1812.torrent",
     "gameFolder": "REDFIRE",
