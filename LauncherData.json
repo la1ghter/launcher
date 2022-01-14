@@ -19,19 +19,20 @@
 "Malfoy_Devourer",
 "Marsik_Mur",
 "Iratez_Fearless",
+"Desperado_Hatte",
 "Baroko_Expert"
   ],
   "servers": [
     {
       "name": "Redfire RP",
       "subname": "REDFIRE #1",
-      "ip": "80.66.82.161",
+      "ip": "95.181.158.32",
       "port": "7777",
       "players": "∞",
       "maxPlayers": "900"
     }
   ], 
-  "servers_online_api": "https://mynameiswizz.site/online.php",
+  "servers_online_api": "https://mynameiswizz.site/online1.php",
   "links_header": [
     {
       "icon": "global",
