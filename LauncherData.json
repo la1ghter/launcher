@@ -24,7 +24,7 @@
   "servers": [
     {
       "name": "Redfire RP",
-      "subname": "REDFIRE 1",
+      "subname": "REDFIRE #1",
       "ip": "80.66.82.161",
       "port": "7777",
       "players": "900",
@@ -62,11 +62,19 @@
   "super_news": {
     "show": true,
     "items": [
-      "• Графика регулируется в лаунчере",
-      "• Для слабых ПК: стандартная-плюс"
+      "• Сегодня действует акция x2 EXP",
+      "• С 13:00 до 21:00 по МСК"
     ]
   },
   "news": [
+	{
+      "name": "Акция для игроков!<br>",
+      "date": "10.01.2022",
+      "url": "https://vk.com/redfiregame?w=wall-187263286_39732",
+      "img": "https://raw.githubusercontent.com/la1ghter/launcher/master/karfgf.png",
+      "desc": "До пятницы(14.01) действует акция x2 EXP с 13:00 до 21:00 по МСК! Вы не сможете получить x2 EXP, если стоите в AFK или в Sleep."
+    },
+	
     {
       "name": "Скоро открытие!<br>",
       "date": "03.01.2022",
@@ -75,6 +83,7 @@
       "desc": "Открытие проекта состоится 6 января в 18:00(мск)!"
     }
   ],
+  
   "self": {
     "hash": "31D55BA6680DF5B2F130FF30DDBEFE535CF8ACEA9C84426F2996B9354245EAC9",
     "url": "http://mynameiswizz.site/REDFIRE1512.torrent"
@@ -91,7 +100,7 @@
     { "question": "Лаунчер не может установиться до конца, зависает.", "answer": "Решение проблемы:  https://www.youtube.com/watch?v=htGxJPQfvPo " }
   ],  
   "game": {
-    "torrentUrl": "http://mynameiswizz.site/REDFIRE15.torrent",
+    "torrentUrl": "http://mynameiswizz.site/REDFIRE20.torrent",
 	"useSecondTorrent": false,
 	"secondTorrentUrl": "https://github.com/la1ghter/launcher/raw/master/REDFIRE1812.torrent",
     "gameFolder": "REDFIRE",
@@ -109,12 +118,7 @@
       "/models/map.ipl",
       "/samp/custom.ide",
 	  "/data/dynamiczones.dat",
-	  "/audio/CONFIG/BankLkup.dat",
-	  "/models/grass/redfire1.img",
-	  "/models/grass/redfire4.img",
-	  "/models/grass/redfire2.img",
-	  "/models/grass/redfire3.img",
-	  "/models/gta3.img"
+	  "hud.asi"
     ],
     "plugins": [
       {
