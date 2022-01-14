@@ -109,7 +109,7 @@
       "dirName": "enb_config"
     },
     "entryCode": "3",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "defaultEnb": "default2",
     "encryptedFiles": [
       "/data/gen/HANDLING.CFG",
