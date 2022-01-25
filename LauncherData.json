@@ -27,7 +27,7 @@
 "Paulion_East",
 "Iratez_Fearless",
 "Asterix_Regaled",
-"Christian Reynolds",
+"Christian_Reynolds",
 "Clewend_East",
 "Attero_Resized",
 "Baroko_Expert"
@@ -36,7 +36,7 @@
     {
       "name": "Redfire RP",
       "subname": "REDFIRE #1",
-      "ip": "95.181.158.32",
+      "ip": "80.66.82.161",
       "port": "7777",
       "players": "∞",
       "maxPlayers": "900"
@@ -73,8 +73,8 @@
   "super_news": {
     "show": true,
     "items": [
-      "• Сегодня действует акция x2 EXP",
-      "• С 13:00 до 21:00 по МСК"
+      "• Для слабых ПК установите графику:",
+      "• Стандарт-плюс"
     ]
   },
   "news": [
