@@ -36,7 +36,7 @@
     {
       "name": "Redfire RP",
       "subname": "REDFIRE #1",
-      "ip": "80.66.82.161",
+      "ip": "92.63.199.3",
       "port": "7777",
       "players": "∞",
       "maxPlayers": "900"
@@ -111,7 +111,7 @@
     { "question": "Лаунчер не может установиться до конца, зависает.", "answer": "Решение проблемы:  https://www.youtube.com/watch?v=htGxJPQfvPo " }
   ],  
   "game": {
-    "torrentUrl": "http://mynameiswizz.site/REDFIRE21.torrent",
+    "torrentUrl": "http://mynameiswizz.site/REDFIRE25.torrent",
 	"useSecondTorrent": false,
 	"secondTorrentUrl": "https://github.com/la1ghter/launcher/raw/master/REDFIRE1812.torrent",
     "gameFolder": "REDFIRE",
@@ -120,7 +120,7 @@
       "dirName": "enb_config"
     },
     "entryCode": "3",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "defaultEnb": "default2",
     "encryptedFiles": [
       "/data/gen/HANDLING.CFG",
@@ -128,8 +128,7 @@
       "/data/gen/VEHICLES.IDE",
       "/models/map.ipl",
       "/samp/custom.ide",
-	  "/data/dynamiczones.dat",
-	  "hud.asi"
+	  "/data/dynamiczones.dat"
     ],
     "plugins": [
       {
