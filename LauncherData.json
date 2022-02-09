@@ -22,14 +22,21 @@
 "Honda_Sakurai",
 "Alya_Veys",
 "Marsik_Mur",
-"Scott_East",
 "Senzi_Syozo",
 "Paulion_East",
 "Iratez_Fearless",
 "Asterix_Regaled",
 "Christian_Reynolds",
 "Clewend_East",
+"Thomas_Kraus",
+"Olivia_Lay",
+"Bwin_Rewrite",
 "Attero_Resized",
+"Baby_Westcoast",
+"Adriano_Quinsado",
+"Hugo_Lee",
+"Kisomi_Kingsman",
+"Fuze_Konig",
 "Baroko_Expert"
 ],
   "servers": [
@@ -111,7 +118,7 @@
     { "question": "Лаунчер не может установиться до конца, зависает.", "answer": "Решение проблемы:  https://www.youtube.com/watch?v=htGxJPQfvPo " }
   ],  
   "game": {
-    "torrentUrl": "http://mynameiswizz.site/REDFIRE25.torrent",
+    "torrentUrl": "http://mynameiswizz.site/REDFIRE10.torrent",
 	"useSecondTorrent": false,
 	"secondTorrentUrl": "https://github.com/la1ghter/launcher/raw/master/REDFIRE1812.torrent",
     "gameFolder": "REDFIRE",
