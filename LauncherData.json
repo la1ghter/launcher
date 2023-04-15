@@ -44,8 +44,8 @@
     {
       "name": "Redfire RP",
       "subname": "REDFIRE #1",
-      "ip": "92.63.199.3",
-      "port": "7777",
+      "ip": "46.174.49.56",
+      "port": "7790",
       "players": "∞",
       "maxPlayers": "900"
     }
@@ -86,26 +86,20 @@
     ]
   },
   "news": [
-	{
-      "name": "Акция для игроков!<br>",
-      "date": "15.01.2022",
-      "url": "https://vk.com/redfiregame?w=wall-187263286_39732",
-      "img": "https://raw.githubusercontent.com/la1ghter/launcher/master/karfgf.png",
-      "desc": "До воскресенья(16.01) действует акция x2 EXP с 13:00 до 21:00 по МСК! Вы не сможете получить x2 EXP, если стоите в AFK или в Sleep."
-    },
+	
 	
     {
-      "name": "Скоро открытие!<br>",
-      "date": "03.01.2022",
+      "name": "У нас ЗБТ!<br>",
+      "date": "13.04.2023",
       "url": "https://vk.com/redfiregame",
       "img": "https://raw.githubusercontent.com/la1ghter/launcher/master/ptiKI4PCTNI.jpg",
-      "desc": "Открытие проекта состоится 6 января в 18:00(мск)!"
+      "desc": "Открытие обязательно состоится (github)"
     }
   ],
   
   "self": {
     "hash": "31D55BA6680DF5B2F130FF30DDBEFE535CF8ACEA9C84426F2996B9354245EAC9",
-    "url": "http://mynameiswizz.site/REDFIRE1512.torrent"
+    "url": "http://mynameiswizz.site/REDFIRE1.torrent"
   },
   "settings": {
     "username_regxp": "^[a-zA-Z0-9_.-]{3,20}$"
@@ -119,9 +113,9 @@
     { "question": "Лаунчер не может установиться до конца, зависает.", "answer": "Решение проблемы:  https://www.youtube.com/watch?v=htGxJPQfvPo " }
   ],  
   "game": {
-    "torrentUrl": "http://mynameiswizz.site/REDFIRE10.torrent",
+    "torrentUrl": "http://mynameiswizz.site/REDFIRE55.torrent",
 	"useSecondTorrent": false,
-	"secondTorrentUrl": "https://github.com/la1ghter/launcher/raw/master/REDFIRE1812.torrent",
+	"secondTorrentUrl": "https://github.com/la1ghter/launcher/raw/master/REDFIRE55.torrent",
     "gameFolder": "REDFIRE",
     "gameExe": "gta_sa.exe",
     "keepSeeding": "0",   "enb": {
