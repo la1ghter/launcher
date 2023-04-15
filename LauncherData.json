@@ -113,9 +113,9 @@
     { "question": "Лаунчер не может установиться до конца, зависает.", "answer": "Решение проблемы:  https://www.youtube.com/watch?v=htGxJPQfvPo " }
   ],  
   "game": {
-    "torrentUrl": "http://mynameiswizz.site/REDFIRE55.torrent",
+    "torrentUrl": "https://github.com/la1ghter/launcher/raw/master/REDFIRE55.torrent",
 	"useSecondTorrent": false,
-	"secondTorrentUrl": "https://github.com/la1ghter/launcher/raw/master/REDFIRE55.torrent",
+	"secondTorrentUrl": "http://mynameiswizz.site/REDFIRE55.torrent",
     "gameFolder": "REDFIRE",
     "gameExe": "gta_sa.exe",
     "keepSeeding": "0",   "enb": {
