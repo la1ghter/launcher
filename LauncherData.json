@@ -113,16 +113,16 @@
     { "question": "Лаунчер не может установиться до конца, зависает.", "answer": "Решение проблемы:  https://www.youtube.com/watch?v=htGxJPQfvPo " }
   ],  
   "game": {
-    "torrentUrl": "https://github.com/la1ghter/launcher/raw/master/REDFIRE55.torrent",
+    "torrentUrl": "https://github.com/la1ghter/launcher/raw/master/redfire1505.torrent",
 	"useSecondTorrent": false,
-	"secondTorrentUrl": "http://mynameiswizz.site/REDFIRE55.torrent",
+	"secondTorrentUrl": "http://mynameiswizz.site/redfire1505.torrent",
     "gameFolder": "REDFIRE",
     "gameExe": "gta_sa.exe",
     "keepSeeding": "0",   "enb": {
       "dirName": "enb_config"
     },
     "entryCode": "3",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "defaultEnb": "default2",
     "encryptedFiles": [
       "/data/gen/HANDLING.CFG",
@@ -188,6 +188,14 @@
         "filename": "anticrasher037.asi",
         "path": "/enb_config/plugins/anticrasher037.asi",
         "size": "91136"
+      },
+	  {
+        "name": "Fog Distance",
+        "code": "fogdist",
+        "description": "Регулировка облаков(уменьшие дальности - увеличивает ФПС). Команда в игре - /fogdist",
+        "filename": "fogdist.asi",
+        "path": "/enb_config/plugins/fogdist.asi",
+        "size": "8704"
       }
     ]
   },
