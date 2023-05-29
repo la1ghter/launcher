@@ -98,8 +98,8 @@
   ],
   
   "self": {
-    "hash": "31D55BA6680DF5B2F130FF30DDBEFE535CF8ACEA9C84426F2996B9354245EAC9",
-    "url": "http://mynameiswizz.site/REDFIRE1.torrent"
+    "hash": "95A24AF1FBBF03A4FA824178EEE9CD4DA7956A63931287F411289063BE9D945F",
+    "url": "https://github.com/la1ghter/launcher/raw/master/update2.torrent"
   },
   "settings": {
     "username_regxp": "^[a-zA-Z0-9_.-]{3,20}$"
