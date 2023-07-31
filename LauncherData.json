@@ -113,26 +113,24 @@
     { "question": "Лаунчер не может установиться до конца, зависает.", "answer": "Решение проблемы:  https://www.youtube.com/watch?v=htGxJPQfvPo " }
   ],  
   "game": {
-    "torrentUrl": "https://github.com/la1ghter/launcher/raw/master/REDFIRE04.torrent",
+    "torrentUrl": "https://github.com/la1ghter/launcher/raw/master/REDFIRE3107.torrent",
 	"useSecondTorrent": false,
-	"secondTorrentUrl": "http://mynameiswizz.site/REDFIRE04.torrent",
+	"secondTorrentUrl": "http://mynameiswizz.site/REDFIRE3107.torrent",
     "gameFolder": "REDFIRE",
     "gameExe": "gta_sa.exe",
     "keepSeeding": "0",   "enb": {
       "dirName": "enb_config"
     },
     "entryCode": "3",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "defaultEnb": "default2",
     "encryptedFiles": [
-      "enter.asi",
-      "hud.asi",
       "/data/gen/HANDLING.CFG",
       "/data/gen/PEDS.IDE",
       "/data/gen/VEHICLES.IDE",
       "/models/map.ipl",
       "/samp/custom.ide",
-	  "/data/dynamiczones.dat"
+      "/data/dynamiczones.dat"
     ],
     "plugins": [
       {
