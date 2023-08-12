@@ -87,19 +87,26 @@
   },
   "news": [
 	
+	{
+      "name": "Открываемся 15 августа в 18:00!<br>",
+      "date": "15.08.2023",
+      "url": "https://vk.com/redfiregame",
+      "img": "https://raw.githubusercontent.com/la1ghter/launcher/master/123.jpg",
+      "desc": "По любым проблемам- напиши в ЛС группы!"
+    },
 	
     {
       "name": "У нас ЗБТ!<br>",
       "date": "13.04.2023",
       "url": "https://vk.com/redfiregame",
       "img": "https://raw.githubusercontent.com/la1ghter/launcher/master/ptiKI4PCTNI.jpg",
-      "desc": "Открытие обязательно состоится (github)"
+      "desc": "Открытие обязательно состоится ;)"
     }
   ],
   
   "self": {
     "hash": "95A24AF1FBBF03A4FA824178EEE9CD4DA7956A63931287F411289063BE9D945F",
-    "url": "https://github.com/la1ghter/launcher/raw/master/update2.torrent"
+    "url": "http://mynameiswizz.site/update2.torrent"
   },
   "settings": {
     "username_regxp": "^[a-zA-Z0-9_.-]{3,20}$"
@@ -113,16 +120,16 @@
     { "question": "Лаунчер не может установиться до конца, зависает.", "answer": "Решение проблемы:  https://www.youtube.com/watch?v=htGxJPQfvPo " }
   ],  
   "game": {
-    "torrentUrl": "https://github.com/la1ghter/launcher/raw/master/REDFIRE31072.torrent",
+    "torrentUrl": "https://github.com/la1ghter/launcher/raw/master/rel1.torrent",
 	"useSecondTorrent": false,
-	"secondTorrentUrl": "http://mynameiswizz.site/REDFIRE31072.torrent",
+	"secondTorrentUrl": "http://mynameiswizz.site/rel1.torrent",
     "gameFolder": "REDFIRE",
     "gameExe": "gta_sa.exe",
     "keepSeeding": "0",   "enb": {
       "dirName": "enb_config"
     },
     "entryCode": "3",
-    "version": "1.0.8",
+    "version": "1.0.12",
     "defaultEnb": "default2",
     "encryptedFiles": [
       "/data/gen/HANDLING.CFG",
@@ -130,7 +137,7 @@
       "/data/gen/VEHICLES.IDE",
       "/models/map.ipl",
       "/samp/custom.ide",
-      "/data/dynamiczones.dat"
+	  "/data/dynamiczones.dat"
     ],
     "plugins": [
       {
@@ -196,6 +203,14 @@
         "filename": "fogdist.asi",
         "path": "/enb_config/plugins/fogdist.asi",
         "size": "8704"
+      },
+	  {
+        "name": "Refresh Rate(Разблокировка Гц)",
+        "code": "refreshrate",
+        "description": "Снимает блокировку в 60 Гц, если Ваш монитор имеет большее кол-во Гц. (by DarkP1xel)",
+        "filename": "RefreshRateFixByDarkP1xel32.ASI",
+        "path": "/enb_config/plugins/RefreshRateFixByDarkP1xel32.ASI",
+        "size": "75264"
       }
     ]
   },
