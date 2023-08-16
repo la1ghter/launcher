@@ -4,8 +4,7 @@
 "Lonquzze_Escoreze", 
 "Eddie_Bronx", 
 "Matteo_Estebane", 
-"Fabio_Espada", 
-"Desperado_Hatte", 
+"Fabio_Espada",  
 "Kohaku_Nagadzima", 
 "Duno_Passion", 
 "Courier_Chen", 
@@ -17,28 +16,32 @@
 "Glen_East", 
 "Ronnie_Ramirez", 
 "Fearless_Apostol", 
-"Malfoy_Devourer", 
-"Butterfly_Reactive", 
+"Johny_Severide", 
+"Finn_Hatte", 
 "Alya_Veys", 
 "Marsik_Mur", 
 "Senzi_Syozo", 
-"Paulion_East", 
+"Aleksandra_Taiger", 
 "Iratez_Fearless", 
 "Asterix_Regaled", 
 "Christian_Reynolds", 
-"Clewend_East", 
-"Thomas_Kraus", 
+"Goose_Izukingweihz", 
+"Honda_Sakurai", 
 "Attero_Resized", 
 "Adriano_Quinsado", 
-"Hugo_Lee", 
-"Kisomi_Kingsman", 
 "Fuze_Konig", 
 "Azrael_Inferno", 
 "Timousha_Escoreze", 
 "Djaster_Escoreze", 
-"Alexsio_Sheffield", 
-"Leonardo_Severide", 
-"Baroko_Expert" 
+"Kurosaki_Ichigo",
+"Joe_Depo",
+"Shawn_Hawkins",
+"Richard_Lewis",
+"Evklid_East",
+"Cute_Gratz",
+"Fridrigh_Algery",
+"Michael_Latore",
+"Terrazyx_Brofriend"
 ],
   "servers": [
     {
@@ -50,7 +53,7 @@
       "maxPlayers": "900"
     }
   ], 
-  "servers_online_api": "https://mynameiswizz.site/online.php",
+  "servers_online_api": "https://redfire.pro/online.php",
   "links_header": [
     {
       "icon": "global",
@@ -88,7 +91,7 @@
   "news": [
 	
 	{
-      "name": "Открываемся 15 августа в 18:00!<br>",
+      "name": "Открываемся сегодня в 18:00!<br>",
       "date": "15.08.2023",
       "url": "https://vk.com/redfiregame",
       "img": "https://raw.githubusercontent.com/la1ghter/launcher/master/123.jpg",
@@ -117,7 +120,7 @@
     { "question": "Нарушена целостность ГТА", "answer": "Если вы удалили какие-то файлы или повредили какие-то, то это может стать проблемой запуска. Нажмите кнопку починить игру и он восстановит повреждённые файлы." },
     { "question": "Белый экран при запуске лаунчера", "answer": "Поставьте совместимость в свойствах лаунчера с другими версиями Windows." },
     { "question": "Лаунчер не может установиться до конца, зависает.", "answer": "Если у вас уже был установлен лаунчер, то удаление осуществляется только через панель управления. Если не был установлен, то нажмите на ярлык установщика и далее на \"извлечь файлы\"." },
-    { "question": "Лаунчер не может установиться до конца, зависает.", "answer": "Решение проблемы:  https://www.youtube.com/watch?v=htGxJPQfvPo " }
+    { "question": "Didnt Respond при входе", "answer": "Выйдите с сервера и заново зайдите. Всё будет работать(проверка на ДДоС)." }
   ],  
   "game": {
     "torrentUrl": "https://github.com/la1ghter/launcher/raw/master/rel8.torrent",
