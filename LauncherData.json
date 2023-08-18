@@ -19,7 +19,7 @@
 "Johny_Severide", 
 "Finn_Hatte", 
 "Alya_Veys", 
-"Marsik_Mur", 
+"El_Chapo", 
 "Senzi_Syozo", 
 "Aleksandra_Taiger", 
 "Iratez_Fearless", 
@@ -41,6 +41,7 @@
 "Cute_Gratz",
 "Fridrigh_Algery",
 "Michael_Latore",
+"Anthony_Danovan",
 "Terrazyx_Brofriend"
 ],
   "servers": [
@@ -123,9 +124,9 @@
     { "question": "Didnt Respond при входе", "answer": "Выйдите с сервера и заново зайдите. Всё будет работать(проверка на ДДоС)." }
   ],  
   "game": {
-    "torrentUrl": "https://github.com/la1ghter/launcher/raw/master/rel8.torrent",
+    "torrentUrl": "https://github.com/la1ghter/launcher/raw/master/rel1808.torrent",
 	"useSecondTorrent": false,
-	"secondTorrentUrl": "http://mynameiswizz.site/rel7.torrent",
+	"secondTorrentUrl": "http://mynameiswizz.site/rel1808.torrent",
     "gameFolder": "REDFIRE",
     "gameExe": "gta_sa.exe",
     "keepSeeding": "0",   "enb": {
@@ -140,7 +141,8 @@
       "/data/gen/VEHICLES.IDE",
       "/models/map.ipl",
       "/samp/custom.ide",
-	  "/data/dynamiczones.dat"
+	    "voice.asi",
+	"/data/dynamiczones.dat"
     ],
     "plugins": [
       {
