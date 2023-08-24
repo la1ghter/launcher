@@ -26,7 +26,6 @@
 "Asterix_Regaled", 
 "Christian_Reynolds", 
 "Goose_Izukingweihz", 
-"Honda_Sakurai", 
 "Attero_Resized", 
 "Adriano_Quinsado", 
 "Fuze_Konig", 
@@ -37,16 +36,15 @@
 "Shawn_Hawkins",
 "Richard_Lewis",
 "Evklid_East",
-"Cute_Gratz",
 "Fridrigh_Algery",
 "Michael_Latore",
 "Anthony_Danovan",
 "Terrazyx_Crowlx",
-"Killa_Pravda",
 "Hayden_Magnago",
 "Cesar_Travieso",
-"Pavel_Kigsman",
-"Loki_Fazbear"
+"Pavel_Kingsman",
+"Loki_Fazbear",
+"Suspicious_Identity"
 ],
   "servers": [
     {
@@ -128,7 +126,7 @@
     { "question": "Didnt Respond при входе", "answer": "Выйдите с сервера и заново зайдите. Всё будет работать(проверка на ДДоС)." }
   ],  
   "game": {
-    "torrentUrl": "https://github.com/la1ghter/launcher/raw/master/REDFIRE1808.torrent",
+    "torrentUrl": "https://github.com/la1ghter/launcher/raw/master/REDFIRE2408.torrent",
 	"useSecondTorrent": false,
 	"secondTorrentUrl": "http://mynameiswizz.site/REDFIRE1808.torrent",
     "gameFolder": "REDFIRE",
