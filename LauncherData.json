@@ -17,7 +17,6 @@
 "Ronnie_Ramirez", 
 "Fearless_Apostol", 
 "Johny_Severide", 
-"Finn_Hatte", 
 "Alya_Veys", 
 "El_Chapo", 
 "Senzi_Syozo", 
@@ -46,7 +45,8 @@
 "Thomas_Harmon",
 "Alice_Rilley",
 "Dexter_Morgan",
-"Cold_Scofield"
+"Cold_Scofield",
+"Kurosaki_Ichigo"
 ],
   "servers": [
     {
@@ -90,7 +90,7 @@
     "show": true,
     "items": [
       "• Сегодня действует акция x2 EXP",
-      "• И скидки на донат 20%"
+      "• С 12:00 до 21:00"
     ]
   },
   "news": [
