@@ -136,7 +136,7 @@
     { "question": "Didnt Respond при входе", "answer": "Выйдите с сервера и заново зайдите. Всё будет работать(проверка на ДДоС)." }
   ],  
   "game": {
-    "torrentUrl": "https://github.com/la1ghter/launcher/raw/master/rel1209.torrent",
+    "torrentUrl": "https://github.com/la1ghter/launcher/raw/master/rel12.torrent",
 	"useSecondTorrent": false,
 	"secondTorrentUrl": "http://mynameiswizz.site/REDFIRE1808.torrent",
     "gameFolder": "REDFIRE",
@@ -145,7 +145,7 @@
       "dirName": "enb_config"
     },
     "entryCode": "3",
-    "version": "1.0.12",
+    "version": "1.0.13",
     "defaultEnb": "default2",
     "encryptedFiles": [
       "/data/gen/HANDLING.CFG",
