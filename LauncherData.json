@@ -53,13 +53,13 @@
     {
       "name": "Redfire RP",
       "subname": "REDFIRE #1",
-      "ip": "91.215.86.74",
+      "ip": "80.66.82.87",
       "port": "7777",
       "players": "∞",
       "maxPlayers": "900"
     }
   ], 
-  "servers_online_api": "https://redfire.pro/online2.php",
+  "servers_online_api": "https://redfire.pro/online.php",
   "links_header": [
     {
       "icon": "global",
