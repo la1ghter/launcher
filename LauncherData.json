@@ -17,11 +17,10 @@
 "Ronnie_Ramirez", 
 "Fearless_Apostol", 
 "Johny_Severide", 
-"Alya_Veys", 
-"El_Chapo", 
+"Alya_Veys",  
 "Aleksandra_Taiger", 
 "Iratez_Fearless", 
-"Asterix_Regaled",
+"Asterix_Regaled", , 
 "Goose_Izukingweihz", 
 "Azrael_Inferno", 
 "Timousha_Escoreze", 
@@ -38,12 +37,12 @@
 "Alexsio_Sheffield",
 "Vagabund_Kernkraft",
 "Denito_Fazbearito",
-"Cold_Scofield",
 "Thomas_Floyd",
 "Faust_Kenwood",
 "Alfred_Old",
 "Rastiwka_Deezers",
-"Amir_Grozny"
+"Amir_Grozny",
+"Vernon_Koehler"
 ],
   "servers": [
     {
@@ -55,7 +54,7 @@
       "maxPlayers": "900"
     }
   ], 
-  "servers_online_api": "https://redfire.pro/online2.php",
+  "servers_online_api": "https://mynameiswizz.site/online2.php",
   "links_header": [
     {
       "icon": "global",
