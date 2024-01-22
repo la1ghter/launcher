@@ -131,9 +131,9 @@
     { "question": "Didnt Respond при входе", "answer": "Выйдите с сервера и заново зайдите. Всё будет работать(проверка на ДДоС)." }
   ],  
   "game": {
-    "torrentUrl": "https://github.com/la1ghter/launcher/raw/master/REDFIRE22.torrent",
+    "torrentUrl": "https://github.com/la1ghter/launcher/raw/master/REDFIRE2201.torrent",
 	"useSecondTorrent": false,
-	"secondTorrentUrl": "http://194.147.149.14/REDFIRE22.torrent",
+	"secondTorrentUrl": "http://194.147.149.14/REDFIRE2201.torrent",
     "gameFolder": "REDFIRE",
     "gameExe": "gta_sa.exe",
     "keepSeeding": "0",   "enb": {
