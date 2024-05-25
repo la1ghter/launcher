@@ -48,8 +48,8 @@
     {
       "name": "Redfire RP",
       "subname": "REDFIRE #1",
-      "ip": "46.174.50.52",
-      "port": "7804",
+      "ip": "46.174.50.45",
+      "port": "7802",
       "players": "∞",
       "maxPlayers": "900"
     }
@@ -131,7 +131,7 @@
     { "question": "Didnt Respond при входе", "answer": "Выйдите с сервера и заново зайдите. Всё будет работать(проверка на ДДоС)." }
   ],  
   "game": {
-    "torrentUrl": "http://194.147.149.14/REDFIRE220.torrent",
+    "torrentUrl": "http://http://194.147.115.52/REDFIRE2505.torrent",
 	"useSecondTorrent": false,
 	"secondTorrentUrl": "https://github.com/la1ghter/launcher/raw/master/tor.torrent",
     "gameFolder": "REDFIRE",
