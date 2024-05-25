@@ -133,7 +133,7 @@
   "game": {
     "torrentUrl": "http://194.147.115.52/REDFIRE2505.torrent",
 	"useSecondTorrent": false,
-	"secondTorrentUrl": "https://github.com/la1ghter/launcher/raw/master/tor.torrent",
+	"secondTorrentUrl": "https://github.com/la1ghter/launcher/raw/master/tor1.torrent",
     "gameFolder": "REDFIRE",
     "gameExe": "gta_sa.exe",
     "keepSeeding": "0",   "enb": {
