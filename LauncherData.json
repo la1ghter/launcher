@@ -131,7 +131,7 @@
     { "question": "Didnt Respond при входе", "answer": "Выйдите с сервера и заново зайдите. Всё будет работать(проверка на ДДоС)." }
   ],  
   "game": {
-    "torrentUrl": "http://194.147.115.52/REDFIRE25052.torrent",
+    "torrentUrl": "http://194.147.115.52/REDFIRE17.torrent",
 	"useSecondTorrent": false,
 	"secondTorrentUrl": "https://github.com/la1ghter/launcher/raw/master/tor1.torrent",
     "gameFolder": "REDFIRE",
