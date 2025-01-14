@@ -123,7 +123,7 @@
     "username_regxp": "^[a-zA-Z0-9_.-]{3,20}$"
   },
   "http_server": {
-	"files_path": "https://github.com/la1ghter/launcher/raw/master/files.json",
+	"files_path": "https://raw.githubusercontent.com/la1ghter/launcher/master/files.json",
 	"files_path2": "https://github.com/la1ghter/launcher/raw/master/files.json",
 	"game_path": "http://91.203.232.67/game/"
   },		
