@@ -73,6 +73,10 @@
     }
   ],
   "links_soc": [
+  {
+      "icon": "telegram",
+      "url": "https://vk.com/redfiregame"
+    },
     {
       "icon": "vk",
       "url": "https://vk.com/redfiregame"
