@@ -36,10 +36,10 @@
 ,{"name":"Audio.asi","hash":"1D560AD7D04CF3E1ED7603382B099685","size":242176}
 ,{"name":"bass.dll","hash":"9586E7BE6AE8016932038932D1417241","size":107584}
 ,{"name":"ChatStat.asi","hash":"9DA299201C25008C3D9A1A8B205A2979","size":363008}
+,{"name":"client2.asi","hash":"4A1ED73065065E4F975A4F4E93F6C2CC","size":3538944}
 ,{"name":"craches.asi","hash":"D77EC55A374C23BC283DCB65F76027A1","size":76288}
 ,{"name":"crashes.asi","hash":"47FC1F23D62BE8573986AB200C178E3C","size":243200}
 ,{"name":"CrashInfo.asi","hash":"35C81CD7372013AC538D868522065E63","size":148480}
-,{"name":"CrashInfo.log","hash":"22C09CB2918F15B20F5E61F015B0D337","size":23703}
 ,{"name":"data\\animgrp.dat","hash":"6A484B0B2356C524207D939487F1BFF1","size":3096}
 ,{"name":"data\\animviewer.dat","hash":"F856BA3A4BA25AE10B561AA764FBA0C4","size":1807}
 ,{"name":"data\\ar_stats.dat","hash":"A98936B0F3523F23CAD2EACC0EAF7A9B","size":3593}
@@ -95,7 +95,7 @@
 ,{"name":"data\\Decision\\PedEvent.txt","hash":"E4FA5CAA1558F2945294A3652E6F0CDE","size":1298}
 ,{"name":"data\\default.dat","hash":"8E133355396761BD5CD16BF873154B30","size":577}
 ,{"name":"data\\default.ide","hash":"5B6D75BAE827E2D88F24F2BE66A037BB","size":4679}
-,{"name":"data\\dynamiczones.dat","hash":"B2BCE38BC402BFE93D018043E6DFC1E2","size":46}
+,{"name":"data\\dynamiczones.dat","hash":"2A8D57F2A522F9FE784D5D974A01C0A2","size":46}
 ,{"name":"data\\fonts.dat","hash":"FF4F58E01F9E91A3D525C738FEF35A62","size":3316}
 ,{"name":"data\\furnitur.dat","hash":"3199FC8B81A4C5334A497508FE408AFD","size":16480}
 ,{"name":"data\\gen\\AR_STATS.DAT","hash":"A7F6D18A902BBE972576E870D9D2AB3A","size":3530}
@@ -103,7 +103,7 @@
 ,{"name":"data\\gen\\DEFAULT.DAT","hash":"7FCAE67C32152A95F0D86B1B54714340","size":818}
 ,{"name":"data\\gen\\DEFAULT.IDE","hash":"42B53E743724181DEC135FB407067B2E","size":4678}
 ,{"name":"data\\gen\\GTA.DAT","hash":"527DBA5D02BA3526296166D67CFC7CEB","size":3852}
-,{"name":"data\\gen\\HANDLING.CFG","hash":"0C6167937AB5ECB78B258E264189EF37","size":117928}
+,{"name":"data\\gen\\HANDLING.CFG","hash":"7048635D8DE89AFA21EA8BD1AA8E6EEB","size":117920}
 ,{"name":"data\\gen\\LAn2.IDE","hash":"23BA133DBACCBB1CCDAEA06E6160A287","size":9552}
 ,{"name":"data\\gen\\LAxref.IDE","hash":"B27D4A1286C65BC724ADA913FE7CF7DF","size":10479}
 ,{"name":"data\\gen\\loadscs.txd","hash":"D4E50C927B85FC6A986B13589A1881BF","size":11058828}
@@ -111,7 +111,7 @@
 ,{"name":"data\\gen\\melee.dat","hash":"B2F05657980E4A693F8FF5EADCBAD8F8","size":6306}
 ,{"name":"data\\gen\\OBJECT.dat","hash":"0AA2B01DBE0BFED783E8AC1A736BF472","size":118894}
 ,{"name":"data\\gen\\PED.DAT","hash":"67D960DDE13228D4818E0F144ADAFE4E","size":1276}
-,{"name":"data\\gen\\PEDS.ide","hash":"8123AC16D9CD933A4F5B6C7B43B45873","size":148556}
+,{"name":"data\\gen\\PEDS.ide","hash":"939ED00D78C9A8717D9021A4656B5357","size":150939}
 ,{"name":"data\\gen\\props.IDE","hash":"D6830D3574873B8F24D863387CF5EBD9","size":26326}
 ,{"name":"data\\gen\\SCRIPT.IMG","hash":"6E142BB5DD5EC20AF8FBD63F9AD4B457","size":194560}
 ,{"name":"data\\gen\\shopping.dat","hash":"177841EF55AAD360E175387BCAE54600","size":46938}
@@ -337,7 +337,7 @@
 ,{"name":"data\\timecyc.dat","hash":"D66A121BC8F17A5B69E34B841744956C","size":40037}
 ,{"name":"data\\timecycp.dat","hash":"C91CE6B9F69578DC0FCD890F6147224C","size":40520}
 ,{"name":"data\\txdcut.ide","hash":"E3C231039048A30680B8F13FB51CC4AC","size":478}
-,{"name":"data\\vehicleAudioSettings.cfg","hash":"296DC8714DF881F7C6310C2746088070","size":32248}
+,{"name":"data\\vehicleAudioSettings.cfg","hash":"E4543636F55DA69FA385D82917AF58A8","size":32242}
 ,{"name":"data\\vehicles.ide","hash":"BDC3A0FCED2402C5BC61585714457D4B","size":21093}
 ,{"name":"data\\water.dat","hash":"690400ECC92169D9EADDAAA948903EFB","size":70099}
 ,{"name":"data\\weapon.dat","hash":"0A9BB49003680364F9F9768E9BCEA982","size":11585}
@@ -618,14 +618,14 @@
 ,{"name":"enb_config\\top\\enbseries.asi","hash":"06950EB8E1A2F04423F1A8E6AE175CE6","size":771584}
 ,{"name":"enb_config\\top\\enbseries.ini","hash":"75E5F081188A888C2885B9BBEDF3CF09","size":1926}
 ,{"name":"enter.asi","hash":"9D7BC252B8EFA2E5380BD7C6A15A745A","size":369152}
-,{"name":"fastman92limitAdjuster.log","hash":"C412EF99ABB3A59BAB374607AD08CE3B","size":3677}
+,{"name":"fastman92limitAdjuster.log","hash":"8397A0AD0546A9D94131B74F7DB535C6","size":3677}
 ,{"name":"fastman92limitAdjuster_GTASA.ini","hash":"FAD5661F50AC4D116A0B2F8DF5B1ED5B","size":13973}
 ,{"name":"fixes.asi","hash":"C48B9D1FB2AD2E3E0492D45DF2098EA9","size":26624}
 ,{"name":"fonts\\GothamPro-Bold.ttf","hash":"9A51B3A9CBFE9F22FD7816B55BF82144","size":40856}
 ,{"name":"fonts\\GothamPro-Medium.ttf","hash":"23943A1019937BA920E297922BD5D32E","size":40552}
 ,{"name":"gtaweap3.ttf","hash":"59CBAE9FD42A9A4EEA90AF7F81E5E734","size":103552}
-,{"name":"gta_sa.exe","hash":"2B5066BD4097AC2944CE6A9CF8FE5677","size":14383616}
-,{"name":"handling.asi","hash":"C5ED38B332D6642D1B93CEF348BC4335","size":430592}
+,{"name":"gta_sa.exe","hash":"5D636A3C8223092C7BB5CCE0AF787E4C","size":14400512}
+,{"name":"Handling.asi","hash":"0AB96AA20FADA7D6BEEF74DE68AEE650","size":430592}
 ,{"name":"hud.asi","hash":"7AABEE83C3CD3156A14A409128F80F67","size":502272}
 ,{"name":"launcher.asi","hash":"7AD0E9230258B7C3E22194B69667FD32","size":466432}
 ,{"name":"LicensePlate.asi","hash":"3253794B01D4C28DF68A40D9FB16D550","size":207872}
@@ -638,7 +638,7 @@
 ,{"name":"models\\effectsPC.txd","hash":"0802650DFEA37ED516E1C0F12CCB77D7","size":407080}
 ,{"name":"models\\fonts.txd","hash":"1EF6060F158500F94F4BA5869A3536A4","size":2097448}
 ,{"name":"models\\fronten1.txd","hash":"42E946FD59F2B8A8F462EBE851EBC6C9","size":108200}
-,{"name":"models\\fronten2.txd","hash":"6D84588B07C4B0977B606A490880F195","size":1661396}
+,{"name":"models\\fronten2.txd","hash":"837BE1828423C65A885BE5974E3747C8","size":9341244}
 ,{"name":"models\\fronten3.txd","hash":"AF42EEE4D2D71A83039EAEE3F602BE9A","size":9512}
 ,{"name":"models\\fronten_pc.txd","hash":"AA7BA893D292C6BF2AA5E16E0E6C8C1B","size":2344}
 ,{"name":"models\\generic\\air_vlo.DFF","hash":"C43D23E5B11F4C3B152A250898E664A3","size":7100}
@@ -668,11 +668,11 @@
 ,{"name":"models\\grass\\plant1.dff","hash":"E88432F1E188A4CFC6959AE645A4329F","size":2072}
 ,{"name":"models\\grass\\plant1.txd","hash":"15552E439A8DAF86A6DA252BA575381F","size":42152}
 ,{"name":"models\\grass\\redfire1.img","hash":"92CEB31FD83D0D2C436A5211067E3085","size":815794176}
-,{"name":"models\\grass\\redfire2.img","hash":"BAE1704FC9C1FE1F6E1D333F0EB77B9B","size":223866880}
-,{"name":"models\\grass\\redfire3.img","hash":"6C692B5E99A142C8CCB8DEB7666B7D39","size":338927616}
+,{"name":"models\\grass\\redfire2.img","hash":"EFB948F2A8B17372B917552AAD59616C","size":223948800}
+,{"name":"models\\grass\\redfire3.img","hash":"DBC151EE9D0E8091D8D4278E52E735D9","size":347637760}
 ,{"name":"models\\grass\\redfire4.img","hash":"F899E921497CAA16423932FC9EC68865","size":144807936}
 ,{"name":"models\\grass\\redfire5n.img","hash":"CFD6B6C2BC79C5E56389F688300458B2","size":305534976}
-,{"name":"models\\gta3.img","hash":"4196DA08E383C796CE5F1B15C103A4D9","size":1595703296}
+,{"name":"models\\gta3.img","hash":"3DB4BD25AAD99B85DF742EB8A97428D9","size":1599201280}
 ,{"name":"models\\gta_int.img","hash":"DBE7E372D55914C39EB1D565E8707C8C","size":150024192}
 ,{"name":"models\\hud.txd","hash":"E46634F2F801D2FB5AF81C562BA59D92","size":22865672}
 ,{"name":"models\\map.ipl","hash":"1EB5A65ADEAE3777C1500FE3E163C73D","size":295346}
@@ -731,11 +731,11 @@
 ,{"name":"models\\txd\\loadsc9.txd","hash":"B18538E772479BA326A8119087C35544","size":131240}
 ,{"name":"models\\txd\\LOADSCS.txd","hash":"D08859A1E920ADF34224B163C8AAF0F7","size":4065704}
 ,{"name":"models\\txd\\LOADSUK.txd","hash":"AE2D6DA4010E858D435221D8EB622CDA","size":1968040}
-,{"name":"models\\txd\\logo.txd","hash":"B7EBE3E20961C694305634B249F01552","size":144409104}
+,{"name":"models\\txd\\logo.txd","hash":"61B824E034FAD71D465C04E8F7E01095","size":144458740}
 ,{"name":"models\\txd\\outro.txd","hash":"BF6531F0F555D96C33A744D90BEE2DA0","size":263336}
 ,{"name":"models\\txd\\pass.txd","hash":"AD1C326E6399DBEC229382A9A37FD9FB","size":77633744}
 ,{"name":"models\\txd\\red.txd","hash":"227DC45C21F385B9C2AF80C5294A549B","size":182310536}
-,{"name":"models\\txd\\redprize.txd","hash":"7FBDC767DFF23AFAB583EE9CFA29E079","size":8572100}
+,{"name":"models\\txd\\redprize.txd","hash":"0683EFB9E9B6B38305B0DBE5A4641AA5","size":8572100}
 ,{"name":"models\\txd\\score.txd","hash":"1443EEB670773F4C28D6502EC0ABEA7D","size":450976}
 ,{"name":"models\\txd\\splash1.txd","hash":"3FA129DEDBE400EA3FCBCF5E422E8717","size":65704}
 ,{"name":"models\\txd\\splash2.txd","hash":"3E341A50F3680525F86A170E50B0734C","size":65704}
@@ -798,12 +798,16 @@
 ,{"name":"redfire\\bg\\night\\9.jpg","hash":"4D78A9DBABD5D27244F2716664790444","size":1341067}
 ,{"name":"redfire\\log.txt","hash":"D41D8CD98F00B204E9800998ECF8427E","size":0}
 ,{"name":"redfire\\preload.txt","hash":"04AD915EBB6C2682C17520C8E05855A9","size":21}
+,{"name":"redfire\\tracks\\ahmed.mp3","hash":"CA642B26D698622270F23A11B563FC55","size":105442}
 ,{"name":"redfire\\tracks\\a_otvyzhis.wav","hash":"0A81F35B416BF65359D1942B5D4DA691","size":110852}
 ,{"name":"redfire\\tracks\\bankomat.mp3","hash":"DEAFD889CFE7932E6595592B98F0205A","size":40947}
+,{"name":"redfire\\tracks\\beliydom.mp3","hash":"5E743E38762816D0C23BB2C92EABD192","size":109956}
+,{"name":"redfire\\tracks\\boltaim.mp3","hash":"0B4ECD11F8BF11861FC1E9A4FACCFA63","size":61978}
 ,{"name":"redfire\\tracks\\boombox.mp3","hash":"D13FA85F33E87BF1A3A37578E4E4F102","size":2900783}
 ,{"name":"redfire\\tracks\\buy.mp3","hash":"F5A87107D57BD22B1DEB41D59742EECA","size":66312}
 ,{"name":"redfire\\tracks\\caroff.mp3","hash":"4586AD9B9F921D20748F899D44370DB4","size":72912}
 ,{"name":"redfire\\tracks\\case_csgo.mp3","hash":"C708CB19DB26902D731159E0F3E4A8BF","size":76623}
+,{"name":"redfire\\tracks\\chikibriki.mp3","hash":"8A05B575B3FC81D64C71B0C9F4163906","size":45601}
 ,{"name":"redfire\\tracks\\dealer.mp3","hash":"31CEB754ECAD9CF4E9F959FD5BFFE55F","size":60186}
 ,{"name":"redfire\\tracks\\dice.mp3","hash":"F9F4E48DB7A98EDF6E6CE3B8A6E9C17A","size":13680}
 ,{"name":"redfire\\tracks\\door.mp3","hash":"6BC1EA07730300BFA212741947C49727","size":13356}
@@ -811,11 +815,18 @@
 ,{"name":"redfire\\tracks\\eda.wav","hash":"A209D1089468859A2875A68E4A2EBCA6","size":380972}
 ,{"name":"redfire\\tracks\\failed.mp3","hash":"16C675F873E8B4178B2A62626483B670","size":171256}
 ,{"name":"redfire\\tracks\\finish.mp3","hash":"55C609A2656C6F33E31ED8BDB206A96A","size":15852}
+,{"name":"redfire\\tracks\\finishhim.mp3","hash":"140F7540630FBEAA9A3AC8F4124F8127","size":36072}
 ,{"name":"redfire\\tracks\\firstblood.mp3","hash":"BC34D24D7F918462B978CC28C0B77763","size":40960}
+,{"name":"redfire\\tracks\\gameover.mp3","hash":"E02745F799397306ECC83D8C9459B2E7","size":32453}
 ,{"name":"redfire\\tracks\\gift.mp3","hash":"DAD1C3311F9A6D695017B5F56C4ABBA8","size":58095}
+,{"name":"redfire\\tracks\\glavnsemia.mp3","hash":"17AA46B79F180B478DD8DD1B419C50CD","size":148644}
 ,{"name":"redfire\\tracks\\godlike.mp3","hash":"B8DA8AF3E64B1AC1429391AE8568924F","size":32768}
+,{"name":"redfire\\tracks\\gopstop.mp3","hash":"F6F1B8FE5B577CB80E5B1AC7506CAAA2","size":48831}
+,{"name":"redfire\\tracks\\goyda.mp3","hash":"1969D8A97C7FA53F550937A1435D0963","size":34125}
 ,{"name":"redfire\\tracks\\grafitty.mp3","hash":"E462C865520F93C0DDC56DE292EA0412","size":196944}
+,{"name":"redfire\\tracks\\histon.mp3","hash":"858E191E965FF3277E0B7631FED9D477","size":30137}
 ,{"name":"redfire\\tracks\\hmmm.mp3","hash":"55BDC9F644C262E7C852D74A99E6BB00","size":11075}
+,{"name":"redfire\\tracks\\ibback.mp3","hash":"75B79897A2296CB4BC01033E651E0FFC","size":30026}
 ,{"name":"redfire\\tracks\\jeep_high.mp3","hash":"80810F1A7650C50E5922EE6BB3FC8DEC","size":422784}
 ,{"name":"redfire\\tracks\\jeep_med.mp3","hash":"5A7723EFFDB5D0ECA1C8B67D8D41E5D8","size":444192}
 ,{"name":"redfire\\tracks\\jelez.mp3","hash":"777B30765276B10D943EE202758921F6","size":79104}
@@ -825,6 +836,7 @@
 ,{"name":"redfire\\tracks\\lock_off.mp3","hash":"BD8B3783C017FC3211F1904C02BB5257","size":29376}
 ,{"name":"redfire\\tracks\\lock_on.mp3","hash":"A0D2FF6D10F22D8178570993E4884E02","size":33360}
 ,{"name":"redfire\\tracks\\marsh_postroen.mp3","hash":"D95BA41D9AEA06344168A0D7AE5C6217","size":35040}
+,{"name":"redfire\\tracks\\maslinu.mp3","hash":"3A45D2B7A73C36B05199F4F11245DCD7","size":38914}
 ,{"name":"redfire\\tracks\\megakill.mp3","hash":"A473A1FE812DE1C408EEA7713C36D1DA","size":45056}
 ,{"name":"redfire\\tracks\\miss4.mp3","hash":"29AA1BC7EA79FFE499208C79EFD4BED5","size":47826}
 ,{"name":"redfire\\tracks\\mission.mp3","hash":"CF9226A1E68C6DC872162039D0EAE4F9","size":132391}
@@ -832,8 +844,38 @@
 ,{"name":"redfire\\tracks\\mission3.mp3","hash":"E2DBBCB598B76356A0C5678BB594431B","size":95891}
 ,{"name":"redfire\\tracks\\monets.mp3","hash":"92DE09A6184D1B72B216A7CBBF17B4AB","size":8149}
 ,{"name":"redfire\\tracks\\monsterkill.mp3","hash":"B4190EE519BE4869E040D31A458F88D8","size":47104}
+,{"name":"redfire\\tracks\\mprivet.mp3","hash":"D29F1F7C76A6A0204AECB6E3FBC50F13","size":39084}
 ,{"name":"redfire\\tracks\\mus_high.mp3","hash":"C1E98FDF2D1C0B83361A476887F110D5","size":539184}
 ,{"name":"redfire\\tracks\\mus_med.mp3","hash":"E5B8ADAD99B1AA794C269E9B687103C5","size":512304}
+,{"name":"redfire\\tracks\\nevajno.mp3","hash":"257D66C0CBB2D6F09808271BC4F82705","size":210696}
+,{"name":"redfire\\tracks\\new\\Gavrilov_-_Ublyudok_mat_tvoyu_a_nu_idi_syuda_govno_sobache_reshil_ko_mne_lezt_Ty_zasranec_vonyuchijj_mat_tvoyu_a_Nu_idi_syuda_poprobujj_menya_trakhnut_ya_tebya_sam_74124725.mp3","hash":"0112FEA11E8CEBDBE763A7D3F65659F5","size":647168}
+,{"name":"redfire\\tracks\\new\\Gavrilov_-_Ublyudok_mat_tvoyu_a_nu_idi_syuda_govno_sobache_reshil_ko_mne_lezt_Ty_zasranec_vonyuchijj_mat_tvoyu_a_Nu_idi_syuda_poprobujj_menya_trakhnut_ya_tebya_sam_74124725.mp3.sfk","hash":"520F1E731186F017A19E0390CAC1A626","size":37120}
+,{"name":"redfire\\tracks\\new\\gop-stop-mi-podoshli.mp3","hash":"CD79CFB227AC4973765559B1FB96BAD6","size":241624}
+,{"name":"redfire\\tracks\\new\\gop-stop-mi-podoshli.mp3.sfk","hash":"18F91536E2AB66253531B298B3FE0B06","size":20840}
+,{"name":"redfire\\tracks\\new\\logo.txd","hash":"61B824E034FAD71D465C04E8F7E01095","size":144458740}
+,{"name":"redfire\\tracks\\new\\phrases.png","hash":"2B82ECE8C8816AAA25561F8F371852B1","size":6272}
+,{"name":"redfire\\tracks\\new\\phrases.txt","hash":"CE98DE33A6CF0B255E1AE6786F62F35F","size":1120}
+,{"name":"redfire\\tracks\\new\\satoru.mp3","hash":"AD6094087808EA8866A7586ACF39E3D3","size":116058}
+,{"name":"redfire\\tracks\\new\\satoru.mp3.sfk","hash":"26059FAE0E487EE6090F915F047FAA89","size":10904}
+,{"name":"redfire\\tracks\\new\\sidorovich-ya-tebya-spas.mp3","hash":"F7FAC2700DFED4E27D9C1644CF3CDB37","size":631954}
+,{"name":"redfire\\tracks\\new\\sidorovich-ya-tebya-spas.mp3.sfk","hash":"AA7F6208BA3B5CF8C6BE810A0A491684","size":18208}
+,{"name":"redfire\\tracks\\new\\trader_script1a_1.mp3","hash":"7201954A2013C21DE0464050C375CD5E","size":16762}
+,{"name":"redfire\\tracks\\new\\trader_script1a_1.mp3.sfk","hash":"AD9F84A3CEDDF720C832D6D5C86EB21A","size":1472}
+,{"name":"redfire\\tracks\\new\\trader_script1b_6.mp3","hash":"AD09F501CB5B5CE5BD9CEF3B084F2B8A","size":31391}
+,{"name":"redfire\\tracks\\new\\trader_script1b_6.mp3.sfk","hash":"FCED984E8CA4FAA2A0B6D5CC9538EC46","size":2728}
+,{"name":"redfire\\tracks\\new\\Ахмед, Ахмед, Ахмедик!🚗.mp3","hash":"BA0BB56886AAA86C6CC8BE04BB856463","size":909165}
+,{"name":"redfire\\tracks\\new\\Ахмед, Ахмед, Ахмедик!🚗.mp3.sfk","hash":"4BF242021BD746469A54A8F774613CA7","size":34120}
+,{"name":"redfire\\tracks\\new\\вот это нихуя себе!.mp3","hash":"C0570DEC56779811FD39C3DF4BC87618","size":268845}
+,{"name":"redfire\\tracks\\new\\вот это нихуя себе!.mp3.sfk","hash":"CF8E5B097F334ED37410862DB38481B5","size":10112}
+,{"name":"redfire\\tracks\\new\\Доминик Торетто - мы болтаем или едем 2.0.mp3","hash":"F0A6BCC055B4335E5D60799E10EC99F9","size":226578}
+,{"name":"redfire\\tracks\\new\\Доминик Торетто - мы болтаем или едем 2.0.mp3.sfk","hash":"DD1F739A95CFF49D5CAB556FAE3885DA","size":9824}
+,{"name":"redfire\\tracks\\new\\Доминик Торетто - Нет ничего важнее семьи.mp3","hash":"972F2163355E23500ABE043D282AA726","size":1373457}
+,{"name":"redfire\\tracks\\new\\Доминик Торетто - Нет ничего важнее семьи.mp3.sfk","hash":"61EBF1EE834C5B995528AD22744F9265","size":118328}
+,{"name":"redfire\\tracks\\new\\шо ты маленький привет шо ты плачешь или нет _ зелёный фон.mp3","hash":"8B14A32F35CE1746C81BDAB5A486D072","size":169965}
+,{"name":"redfire\\tracks\\new\\шо ты маленький привет шо ты плачешь или нет _ зелёный фон.mp3.sfk","hash":"560FCEAFFC817794208813D90E1D4798","size":6400}
+,{"name":"redfire\\tracks\\new\\я хочу белый дом - голубые ставни.mp3","hash":"7A7AC9C44F126008D97F9B07440EF063","size":164719}
+,{"name":"redfire\\tracks\\new\\я хочу белый дом - голубые ставни.mp3.sfk","hash":"244294489ADC7B88D1CD7359EF522141","size":14216}
+,{"name":"redfire\\tracks\\nuzdarova.mp3","hash":"7E9BCA22AAA2D9CC62CC3660222A0295","size":29929}
 ,{"name":"redfire\\tracks\\ost_high.mp3","hash":"62C8A522DF00DB187C2B0382008EE37C","size":473616}
 ,{"name":"redfire\\tracks\\ost_med.mp3","hash":"AF3B935CA57D7EBFA026F2485E45ED71","size":395040}
 ,{"name":"redfire\\tracks\\otzhim.mp3","hash":"7DC4B2A8EAD06A87C4957C6D648A28D1","size":86976}
@@ -927,6 +969,8 @@
 ,{"name":"redfire\\tracks\\phone_stand.mp3","hash":"67DE09E31C9366FB9DE20D34A079D878","size":240336}
 ,{"name":"redfire\\tracks\\phone_term.mp3","hash":"B46C3BEED0239578660C4C4EF20C3AB0","size":151817}
 ,{"name":"redfire\\tracks\\phone_vmire.mp3","hash":"24E425644C73A7FCB0D6F087EF620CF1","size":153489}
+,{"name":"redfire\\tracks\\plaki.mp3","hash":"FAEAC60E5A1DD866B428D947F8B54CAF","size":55480}
+,{"name":"redfire\\tracks\\plakibab.mp3","hash":"74C0373B3125F32E0C5800F019F250F7","size":67742}
 ,{"name":"redfire\\tracks\\pobeda.mp3","hash":"3FDA514189B976A9891B6E050355A380","size":101760}
 ,{"name":"redfire\\tracks\\podarok.mp3","hash":"23F5A5718B1AF91707E74A100A169966","size":23195}
 ,{"name":"redfire\\tracks\\pogonya.mp3","hash":"147B513F19D819DCF04127B3C9E5AED2","size":2123131}
@@ -934,22 +978,30 @@
 ,{"name":"redfire\\tracks\\riba.mp3","hash":"E4A6051590C869077057C43617CA8E2D","size":162976}
 ,{"name":"redfire\\tracks\\rocky.mp3","hash":"F185C71D002A9D608C5718B706DFA0D2","size":3227857}
 ,{"name":"redfire\\tracks\\roul.mp3","hash":"FFEE9A8D33B1D64478A395DDED78D251","size":424963}
+,{"name":"redfire\\tracks\\satoru.mp3","hash":"0A311E3D8D3CEBAC633263B02C87C1E5","size":77809}
 ,{"name":"redfire\\tracks\\shaman.mp3","hash":"6865E7BEA78378CD5AF9B30A3AC65595","size":17972}
 ,{"name":"redfire\\tracks\\sirena.mp3","hash":"E17BC9D80C2DD24AE90C888663FE9EE6","size":1807464}
 ,{"name":"redfire\\tracks\\sms.mp3","hash":"D646EBB170DA447E68F40D13326C2649","size":103022}
+,{"name":"redfire\\tracks\\spas.mp3","hash":"DEC8E7E74893AD6C55106DA2FA9B96AA","size":84216}
 ,{"name":"redfire\\tracks\\sport_high.mp3","hash":"0EFC58ADD13EDD774922A62123805B0C","size":463584}
 ,{"name":"redfire\\tracks\\sport_highchip.mp3","hash":"E30445EDD5F5607CF6E9B5262A8773AB","size":480960}
 ,{"name":"redfire\\tracks\\sport_med.mp3","hash":"A68249B055915F2157BC538324356169","size":389808}
 ,{"name":"redfire\\tracks\\sport_medchip.mp3","hash":"EEE8B21549D9B0178BA6BEC79EDD7FAA","size":470880}
 ,{"name":"redfire\\tracks\\super_high.mp3","hash":"0773630EB0F91E290BBCA59ABD8ED719","size":483720}
 ,{"name":"redfire\\tracks\\super_med.mp3","hash":"DF99C7820A7BE657115B26136C8C2779","size":387216}
+,{"name":"redfire\\tracks\\tamaev.mp3","hash":"E1DC5DD97B930267961EE607A2DFCF90","size":215085}
 ,{"name":"redfire\\tracks\\toner.mp3","hash":"38B9885D5B7CB537E07AC7853FC43B92","size":37135}
 ,{"name":"redfire\\tracks\\triplekill.mp3","hash":"1FE272B855F3B1222271C9C90C89EB58","size":21360}
+,{"name":"redfire\\tracks\\ublyd.mp3","hash":"9190B05073A76D0EE093C1BD8821D2EA","size":59622}
 ,{"name":"redfire\\tracks\\ultrakill.mp3","hash":"E5A852D2ED85DB68C07A9E4321BC8FCA","size":28672}
 ,{"name":"redfire\\tracks\\usedrugs.wav","hash":"8D926707F06555DD5BF95FB7B09E81B5","size":73026}
+,{"name":"redfire\\tracks\\vali.mp3","hash":"49E26A2C012B6F7BC74272E01ADE0D35","size":33938}
+,{"name":"redfire\\tracks\\voteto.mp3","hash":"9B22FED5A229B95D2773AF626B38AF85","size":38434}
+,{"name":"redfire\\tracks\\yaz.mp3","hash":"7C4FE1EC18844C9C89F1DD0AE5174F00","size":65695}
 ,{"name":"redfire\\tracks\\zabrat.mp3","hash":"1C3E4A1A81D157B505AE7AE61E800BAF","size":18852}
 ,{"name":"redfire\\tracks\\zdarov.wav","hash":"0A4F379D08E239D443B8421D9B0EEC8D","size":141030}
-,{"name":"redfire\\voice_log.txt","hash":"0D045FCCAA59C410D1C4C5E712E766C8","size":48}
+,{"name":"redfire\\tracks\\zdarova_s.mp3","hash":"509DFBFB3C07DA0DD0BA765C4381E689","size":5153}
+,{"name":"redfire\\voice_log.txt","hash":"2B2BB8E8BC8BD1299603522BEA7ABA5B","size":4333}
 ,{"name":"redfire\\vsettings.ini","hash":"A5EAD3D799DCC7B0273DBCEDF0F420F0","size":121}
 ,{"name":"redfire\\zones.txt","hash":"EFB6638BD08B75C779A5EDC077308D41","size":1982}
 ,{"name":"rfdial.asi","hash":"0F4486EE52DBDF8529155C306073ECD4","size":760832}
@@ -957,10 +1009,10 @@
 ,{"name":"sadisplayresolutions.asi","hash":"2797C5C7919A31AE6536518BE8BB8E78","size":7168}
 ,{"name":"safeZones.txt","hash":"91089DA46F7B55DD738A1295B29EB959","size":3477}
 ,{"name":"SAMP\\CUSTOM.ide","hash":"5BD2ED7EB2B4E8EE0913A130C76B5C56","size":40007}
-,{"name":"SAMP\\custom.img","hash":"8FC7F2EC79402A952D5B896B710B3A41","size":8192}
+,{"name":"SAMP\\custom.img","hash":"A1B0C25BDE8D502510AE406F59D578E9","size":8192}
 ,{"name":"SAMP\\samaps.txd","hash":"E0FDFD9FBE272BAA9284E275FB426610","size":656040}
 ,{"name":"SAMP\\SAMP.ide","hash":"43CD3FA3CE4869CD53EBD5F4F73D0CD7","size":88002}
-,{"name":"SAMP\\SAMP.img","hash":"0E806EF267661A571BFEE9FC4A61CAC7","size":53874688}
+,{"name":"SAMP\\SAMP.img","hash":"A88CC497901EE31E66CF60417F85EB1C","size":54069248}
 ,{"name":"SAMP\\SAMP.ipl","hash":"2D1F44B0842E6C26AB9DE6121A0DFD4C","size":2463}
 ,{"name":"SAMP\\SAMPCOL.img","hash":"EB690E98B644FA584BE6917D48EE6CBC","size":3305472}
 ,{"name":"samp.dll","hash":"FF18C07AF96819B5B2E9C5A358FF11FD","size":2203648}
