@@ -620,6 +620,7 @@
 ,{"name":"enter.asi","hash":"9D7BC252B8EFA2E5380BD7C6A15A745A","size":369152}
 ,{"name":"fastman92limitAdjuster.log","hash":"8397A0AD0546A9D94131B74F7DB535C6","size":3677}
 ,{"name":"fastman92limitAdjuster_GTASA.ini","hash":"FAD5661F50AC4D116A0B2F8DF5B1ED5B","size":13973}
+,{"name":"files.json","hash":"508E8F59834B61EF53068892B5109FF5","size":102410}
 ,{"name":"fixes.asi","hash":"C48B9D1FB2AD2E3E0492D45DF2098EA9","size":26624}
 ,{"name":"fonts\\GothamPro-Bold.ttf","hash":"9A51B3A9CBFE9F22FD7816B55BF82144","size":40856}
 ,{"name":"fonts\\GothamPro-Medium.ttf","hash":"23943A1019937BA920E297922BD5D32E","size":40552}
@@ -681,7 +682,7 @@
 ,{"name":"models\\pcbtns.txd","hash":"9FF145D936961FD37915C6AE186F6775","size":4648}
 ,{"name":"models\\player.img","hash":"B06073200F58E220DCD5915EA646B468","size":66738176}
 ,{"name":"models\\race.ipl","hash":"FAD53DA4E7811CE8F04A5C4C82BE5D3E","size":26200}
-,{"name":"models\\txd\\ach.txd","hash":"D92C134EE2A9B2660FE657CFD3FAEB4A","size":170376216}
+,{"name":"models\\txd\\ach.txd","hash":"B4B2B974733DBCCC498339A0C8DF8D57","size":170376216}
 ,{"name":"models\\txd\\car.txd","hash":"1EF0BBBF43A01676738F562748E08704","size":15172160}
 ,{"name":"models\\txd\\durak.txd","hash":"A2D6E4DD902627068271C43D9870C918","size":6707692}
 ,{"name":"models\\txd\\inter.txd","hash":"98114A5514DC832CC4AA0A4F269DCD38","size":317794116}
