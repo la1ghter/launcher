@@ -129,7 +129,7 @@
   "http_server": {
 	"files_path": "https://raw.githubusercontent.com/la1ghter/launcher/master/files.json",
 	"files_path2": "https://github.com/la1ghter/launcher/raw/master/files.json",
-	"game_path": "https://redfire.b-cdn.net/game/game/"
+	"game_path": "https://redfire.b-cdn.net/game/"
   },		
   "faq": [
     { "question": "Системные требования", "answer": "Мы учли пожелания многих игроков, сделав игру оптимизированной под слабые ПК. Системные требования точно такие же, как и у обычного, SA:MP. У нас есть 5 видов настроек графики(от слабой до топовой) и возможность оставить стандартную графику. Проблем со слабыми ПК - не возникнет." },
