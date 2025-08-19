@@ -129,7 +129,7 @@
   "http_server": {
 	"files_path": "https://raw.githubusercontent.com/la1ghter/launcher/master/files.json",
 	"files_path2": "https://github.com/la1ghter/launcher/raw/master/files.json",
-	"game_path": "http://redfire.b-cdn.net/game/"
+	"game_path": "https://chronikaa.ru/game/"
   },		
   "faq": [
     { "question": "Системные требования", "answer": "Мы учли пожелания многих игроков, сделав игру оптимизированной под слабые ПК. Системные требования точно такие же, как и у обычного, SA:MP. У нас есть 5 видов настроек графики(от слабой до топовой) и возможность оставить стандартную графику. Проблем со слабыми ПК - не возникнет." },
@@ -140,7 +140,7 @@
     { "question": "Didnt Respond при входе", "answer": "Выйдите с сервера и заново зайдите. Всё будет работать(проверка на ДДоС)." }
   ],  
   "game": {
-    "torrentUrl": "https://redfire.b-cdn.net/REDFIRE1008.torrent",
+    "torrentUrl": "https://chronikaa.ru/REDFIRE1908.torrent",
 	"useSecondTorrent": false,
 	"secondTorrentUrl": "https://github.com/la1ghter/launcher/raw/master/tor1.torrent",
     "gameFolder": "REDFIRE",
