@@ -140,7 +140,7 @@
     { "question": "Didnt Respond при входе", "answer": "Выйдите с сервера и заново зайдите. Всё будет работать(проверка на ДДоС)." }
   ],  
   "game": {
-    "torrentUrl": "https://chronikaa.ru/REDFIRE1908.torrent",
+    "torrentUrl": "https://chronikaa.ru/REDFIRE3108.torrent",
 	"useSecondTorrent": false,
 	"secondTorrentUrl": "https://github.com/la1ghter/launcher/raw/master/tor1.torrent",
     "gameFolder": "REDFIRE",
