@@ -120,8 +120,8 @@
   ],
   
   "self": {
-    "hash": "7c69c5212ffab32b1973f2644f27e32c",
-    "url": "http://185.231.246.26/app.asar.update"
+    "hash": "8064a24de7868228a1f57c67032398ef",
+    "url": "http://62.76.142.213/app.asar.update"
   },
   "settings": {
     "username_regxp": "^[a-zA-Z0-9_.-]{3,20}$"
