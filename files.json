@@ -34,6 +34,7 @@
 ,{"name":"Audio.asi","hash":"1D560AD7D04CF3E1ED7603382B099685","size":242176}
 ,{"name":"bass.dll","hash":"9586E7BE6AE8016932038932D1417241","size":107584}
 ,{"name":"ChatStat.asi","hash":"9DA299201C25008C3D9A1A8B205A2979","size":363008}
+,{"name":"client.log","hash":"D41D8CD98F00B204E9800998ECF8427E","size":0}
 ,{"name":"client2.asi","hash":"7EB7B3480D712A7A622DD98F6DC251E6","size":5410304}
 ,{"name":"craches.asi","hash":"D77EC55A374C23BC283DCB65F76027A1","size":76288}
 ,{"name":"crashes.asi","hash":"47FC1F23D62BE8573986AB200C178E3C","size":243200}
@@ -618,7 +619,7 @@
 ,{"name":"enb_config\\top\\enbseries.ini","hash":"75E5F081188A888C2885B9BBEDF3CF09","size":1926}
 ,{"name":"enter.asi","hash":"9D7BC252B8EFA2E5380BD7C6A15A745A","size":369152}
 ,{"name":"fastman92limitAdjuster.asi","hash":"FB14E0B03007326BD6043DF4D0B24CF3","size":5574656}
-,{"name":"fastman92limitAdjuster.log","hash":"8B4E0C35E21D80DFD7DC7CB0397F8B12","size":4126}
+,{"name":"fastman92limitAdjuster.log","hash":"9F9F1199F4829A2E469E8AF5408C892A","size":4126}
 ,{"name":"fastman92limitAdjuster_GTASA.ini","hash":"E6D1C32852304296B4419439CBEB1A98","size":13970}
 ,{"name":"fixes.asi","hash":"C48B9D1FB2AD2E3E0492D45DF2098EA9","size":26624}
 ,{"name":"fonts\\GothamPro-Bold.ttf","hash":"9A51B3A9CBFE9F22FD7816B55BF82144","size":40856}
@@ -983,7 +984,7 @@
 ,{"name":"redfire\\tracks\\zabrat.mp3","hash":"1C3E4A1A81D157B505AE7AE61E800BAF","size":18852}
 ,{"name":"redfire\\tracks\\zdarov.wav","hash":"0A4F379D08E239D443B8421D9B0EEC8D","size":141030}
 ,{"name":"redfire\\tracks\\zdarova_s.mp3","hash":"509DFBFB3C07DA0DD0BA765C4381E689","size":5153}
-,{"name":"redfire\\voice_log.txt","hash":"796648CDEFEE88362CDEA6458F73C9F0","size":5358}
+,{"name":"redfire\\voice_log.txt","hash":"D091F099FE365EAADA0586DAFA94EE08","size":5682}
 ,{"name":"redfire\\vsettings.ini","hash":"A5EAD3D799DCC7B0273DBCEDF0F420F0","size":121}
 ,{"name":"redfire\\zones.txt","hash":"EFB6638BD08B75C779A5EDC077308D41","size":1982}
 ,{"name":"rfdial.asi","hash":"0F4486EE52DBDF8529155C306073ECD4","size":760832}
