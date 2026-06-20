@@ -180,14 +180,14 @@
     "size": 363008
   },
   {
-    "name": "client.log",
-    "hash": "D41D8CD98F00B204E9800998ECF8427E",
-    "size": 0
+    "name": "client.asi",
+    "hash": "98D7D8A2D02F1BC14D96DEBC8C0AA239",
+    "size": 7560192
   },
   {
-    "name": "client2.asi",
-    "hash": "7EB7B3480D712A7A622DD98F6DC251E6",
-    "size": 5410304
+    "name": "client.log",
+    "hash": "E38AB29424497DE0E0E4DE0B73B00DE8",
+    "size": 1283
   },
   {
     "name": "craches.asi",
@@ -611,8 +611,8 @@
   },
   {
     "name": "data\\gen\\VEHICLES.IDE",
-    "hash": "F2B91A14DA0049456B3CC34C94E1B837",
-    "size": 43793
+    "hash": "0E32F4FFA00771E26FF7026DC349D757",
+    "size": 30924
   },
   {
     "name": "data\\gen\\WEAPON.DAT",
@@ -3385,9 +3385,14 @@
     "size": 109408256
   },
   {
-    "name": "models\\gta3.img",
+    "name": "models\\gta3 — копия.img",
     "hash": "CE20F725FE844742AB93C62EC614B745",
     "size": 1597267968
+  },
+  {
+    "name": "models\\gta3.img",
+    "hash": "042AA497159D85ABFF1A003A0A79BDB6",
+    "size": 1598406656
   },
   {
     "name": "models\\gta_int.img",
@@ -4996,8 +5001,8 @@
   },
   {
     "name": "SAMP\\SAMP.img",
-    "hash": "4DA91A8739472FF459D64739B70C6114",
-    "size": 54417408
+    "hash": "C2820FE53B371C48E9A608DA3A7571F7",
+    "size": 54401024
   },
   {
     "name": "SAMP\\SAMP.ipl",
