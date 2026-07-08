@@ -156,6 +156,7 @@
       "/data/gen/PEDS.IDE",
       "/data/gen/VEHICLES.IDE",
       "/models/map.ipl",
+	  "/models/chr.ide",
       "/samp/custom.ide",
 	    "/voice.asi",
 	    "/handling.asi",
