@@ -152,13 +152,6 @@
     "version": "1.0.16",
     "defaultEnb": "default2",
     "encryptedFiles": [
-      "/data/gen/HANDLING.CFG",
-      "/data/gen/PEDS.IDE",
-      "/data/gen/VEHICLES.IDE",
-      "/models/map.ipl",
-	  "/models/chr.ide",
-      "/samp/custom.ide",
-	"/data/dynamiczones.dat"
     ],
     "plugins": [
       {
