@@ -45,6 +45,16 @@
     "size": 23508
   },
   {
+    "name": "audio\\REDFIRE\\jump.mp3",
+    "hash": "E6593BA6F821B43418A609BCE7059B88",
+    "size": 9511
+  },
+  {
+    "name": "audio\\REDFIRE\\jump_f.mp3",
+    "hash": "7676572D20726A0AEA01CA304547BE94",
+    "size": 34589
+  },
+  {
     "name": "audio\\SFX\\FEET",
     "hash": "1717FE0644D83F7464665808B4B71B80",
     "size": 354020
@@ -181,13 +191,13 @@
   },
   {
     "name": "client.asi",
-    "hash": "98D7D8A2D02F1BC14D96DEBC8C0AA239",
-    "size": 7560192
+    "hash": "1F348A3EE2FB5E1AB03251C5641A9DCF",
+    "size": 7631872
   },
   {
     "name": "client.log",
-    "hash": "E38AB29424497DE0E0E4DE0B73B00DE8",
-    "size": 1283
+    "hash": "D41D8CD98F00B204E9800998ECF8427E",
+    "size": 0
   },
   {
     "name": "craches.asi",
@@ -3106,8 +3116,8 @@
   },
   {
     "name": "fastman92limitAdjuster.log",
-    "hash": "D41D8CD98F00B204E9800998ECF8427E",
-    "size": 0
+    "hash": "B777F6A7C1C326389F6CA843F9F1D561",
+    "size": 4126
   },
   {
     "name": "fastman92limitAdjuster_GTASA.ini",
@@ -4931,8 +4941,8 @@
   },
   {
     "name": "redfire\\voice_log.txt",
-    "hash": "D41D8CD98F00B204E9800998ECF8427E",
-    "size": 0
+    "hash": "2997DCC005DB538D5C03C9CFE47029B3",
+    "size": 5472
   },
   {
     "name": "redfire\\vsettings.ini",
