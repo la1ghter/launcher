@@ -158,8 +158,6 @@
       "/models/map.ipl",
 	  "/models/chr.ide",
       "/samp/custom.ide",
-	    "/handling.asi",
-	    "/LicensePlate.asi",
 	"/data/dynamiczones.dat"
     ],
     "plugins": [
