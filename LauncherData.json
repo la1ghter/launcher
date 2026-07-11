@@ -121,7 +121,7 @@
   
   "self": {
     "hash": "70093cb2004da213adc0ad75b180f2eb",
-    "url": "http://62.76.142.213/app.asar.update"
+    "url": "http://194.242.127.126/app.asar.update"
   },
   "settings": {
     "username_regxp": "^[a-zA-Z0-9_.-]{3,20}$"
