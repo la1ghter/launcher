@@ -120,7 +120,7 @@
   ],
   
   "self": {
-    "hash": "70093cb2004da213adc0ad75b180f2eb",
+    "hash": "8ac068c18fff4912ff31073d5911e82a",
     "url": "http://194.242.127.126/app.asar.update"
   },
   "settings": {
@@ -140,16 +140,16 @@
     { "question": "Didnt Respond при входе", "answer": "Выйдите с сервера и заново зайдите. Всё будет работать(проверка на ДДоС)." }
   ],  
   "game": {
-    "torrentUrl": "http://cdnredfire.online/REDFIRE0902.torrent",
+    "torrentUrl": "https://github.com/la1ghter/launcher/raw/master/REDFIRE10.torrent",
 	"useSecondTorrent": false,
-	"secondTorrentUrl": "https://github.com/la1ghter/launcher/raw/master/REDFIRE084.torrent",
+	"secondTorrentUrl": "http://cdnredfire.online/REDFIRE10.torrent",
     "gameFolder": "REDFIRE",
     "gameExe": "gta_sa.exe",
     "keepSeeding": "0",   "enb": {
       "dirName": "enb_config"
     },
     "entryCode": "3",
-    "version": "1.0.16",
+    "version": "1.0.1",
     "defaultEnb": "default2",
     "encryptedFiles": [
     ],
