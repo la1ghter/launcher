@@ -120,7 +120,7 @@
   ],
   
   "self": {
-    "hash": "375fd564b0944b25023edbca429711e0",
+    "hash": "17c26478b6faf96a4f8d659a94c22dc0",
     "url": "http://194.242.127.126/app.asar.update"
   },
   "settings": {
@@ -128,7 +128,7 @@
   },
   "http_server": {
 	"files_path": "https://raw.githubusercontent.com/la1ghter/launcher/master/files.json",
-	"files_path2": "https://github.com/la1ghter/launcher/raw/master/files.json",
+	"files_path2": "http://cdnredfire.online/files.json",
 	"game_path": "http://ya.cdnredfire.online/game/"
   },		
   "faq": [
@@ -149,7 +149,7 @@
       "dirName": "enb_config"
     },
     "entryCode": "3",
-    "version": "1.0.1",
+    "version": "1.0.5",
     "defaultEnb": "default2",
     "encryptedFiles": [
     ],
