@@ -140,7 +140,7 @@
     { "question": "Didnt Respond при входе", "answer": "Выйдите с сервера и заново зайдите. Всё будет работать(проверка на ДДоС)." }
   ],  
   "game": {
-    "torrentUrl": "https://github.com/la1ghter/launcher/raw/master/REDFIRE2602.torrent",
+    "torrentUrl": "https://github.com/la1ghter/launcher/raw/master/REDFIRE2603.torrent",
 	"useSecondTorrent": false,
 	"secondTorrentUrl": "http://cdnredfire.online/REDFIRE10.torrent",
     "gameFolder": "REDFIRE",
