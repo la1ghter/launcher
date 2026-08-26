@@ -48,8 +48,8 @@
     {
       "name": "Redfire RP",
       "subname": "REDFIRE #1",
-      "ip": "147.135.229.229",
-      "port": "1205",
+      "ip": "80.242.59.112",
+      "port": "1965",
       "players": "∞",
       "maxPlayers": "900"
     }
@@ -149,7 +149,7 @@
       "dirName": "enb_config"
     },
     "entryCode": "3",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "defaultEnb": "default2",
        "encryptedFiles": [
       "/data/gen/HANDLING.CFG",
