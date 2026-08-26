@@ -496,8 +496,8 @@
   },
   {
     "name": "data\\dynamiczones.dat",
-    "hash": "6D9F070C5CE9FE5EBD7E09F57BBCA663",
-    "size": 48
+    "hash": "AE8F6CC29A17696D936E4BD32D979C15",
+    "size": 50
   },
   {
     "name": "data\\fonts.dat",
@@ -536,8 +536,8 @@
   },
   {
     "name": "data\\gen\\HANDLING.CFG",
-    "hash": "DC50D5D58A942C69ED5B5496497BFE40",
-    "size": 117920
+    "hash": "D6E81C9A271551D55D9D1E5D93F96C45",
+    "size": 117892
   },
   {
     "name": "data\\gen\\LAn2.IDE",
@@ -2758,6 +2758,11 @@
     "name": "enb_config\\plugins\\fixblackroads.asi",
     "hash": "4A85481E0BCFEB1B762BFC4A736D0876",
     "size": 7168
+  },
+  {
+    "name": "enb_config\\plugins\\hud_old.asi",
+    "hash": "7BD7CB7F1E871A8B724CF9B8711D4A7A",
+    "size": 746496
   },
   {
     "name": "enb_config\\plugins\\fogdist.asi",
