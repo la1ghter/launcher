@@ -151,7 +151,14 @@
     "entryCode": "3",
     "version": "1.0.5",
     "defaultEnb": "default2",
-    "encryptedFiles": [
+       "encryptedFiles": [
+      "/data/gen/HANDLING.CFG",
+      "/data/gen/PEDS.IDE",
+      "/data/gen/VEHICLES.IDE",
+	  "ChatStat.asi",
+      "/models/map.ipl",
+      "/samp/custom.ide",
+	  "/data/dynamiczones.dat"
     ],
     "plugins": [
       {
