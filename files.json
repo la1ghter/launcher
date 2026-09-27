@@ -185,9 +185,14 @@
     "size": 107584
   },
   {
+    "name": "buildings.json",
+    "hash": "0431BC0843254908EBE257AC39C83204",
+    "size": 115231
+  },
+  {
     "name": "client.asi",
-    "hash": "D77A001C89E6B8CC54C934119ACF086E",
-    "size": 8972288
+    "hash": "C683BC5259FBD11992BBB3149570E8C3",
+    "size": 11984896
   },
   {
     "name": "client.log",
@@ -516,8 +521,8 @@
   },
   {
     "name": "data\\gen\\DEFAULT.DAT",
-    "hash": "EAC7A4926B04BD9AC634940AB91FAC40",
-    "size": 849
+    "hash": "7FCAE67C32152A95F0D86B1B54714340",
+    "size": 818
   },
   {
     "name": "data\\gen\\DEFAULT.IDE",
@@ -526,8 +531,8 @@
   },
   {
     "name": "data\\gen\\GTA.DAT",
-    "hash": "E573A80EB2BDFB6EE0036EB177084CA2",
-    "size": 3908
+    "hash": "527DBA5D02BA3526296166D67CFC7CEB",
+    "size": 3852
   },
   {
     "name": "data\\gen\\HANDLING.CFG",
@@ -728,11 +733,6 @@
     "name": "data\\maps\\country\\countryS.ipl",
     "hash": "8D1BD4B5D337139FF3A953D44FC2B0E3",
     "size": 33835
-  },
-  {
-    "name": "data\\maps\\country\\countryU.IPL",
-    "hash": "F54D92DF6E7FED630312CF2449F02011",
-    "size": 183326
   },
   {
     "name": "data\\maps\\country\\countryW.ide",
@@ -2755,11 +2755,6 @@
     "size": 7168
   },
   {
-    "name": "enb_config\\plugins\\hud_old.asi",
-    "hash": "7BD7CB7F1E871A8B724CF9B8711D4A7A",
-    "size": 746496
-  },
-  {
     "name": "enb_config\\plugins\\fogdist.asi",
     "hash": "341865F551220458B53F22F05C590D94",
     "size": 8704
@@ -2773,6 +2768,11 @@
     "name": "enb_config\\plugins\\FramerateVigil.asi",
     "hash": "381C82DCEA7B5D807BE9145E4FFDF400",
     "size": 74752
+  },
+  {
+    "name": "enb_config\\plugins\\hud_old.asi",
+    "hash": "7BD7CB7F1E871A8B724CF9B8711D4A7A",
+    "size": 746496
   },
   {
     "name": "enb_config\\plugins\\nopostfx.asi",
@@ -3106,8 +3106,8 @@
   },
   {
     "name": "enter.asi",
-    "hash": "9D7BC252B8EFA2E5380BD7C6A15A745A",
-    "size": 369152
+    "hash": "F76F7761D56AE428A843B98116254372",
+    "size": 388096
   },
   {
     "name": "fastman92limitAdjuster.asi",
@@ -3116,13 +3116,13 @@
   },
   {
     "name": "fastman92limitAdjuster.log",
-    "hash": "17156FB2570A03A042B3D9DB150C73C8",
-    "size": 4126
+    "hash": "C4CA4238A0B923820DCC509A6F75849B",
+    "size": 1
   },
   {
     "name": "fastman92limitAdjuster_GTASA.ini",
-    "hash": "E6D1C32852304296B4419439CBEB1A98",
-    "size": 13970
+    "hash": "13DD69F0B2E7CEB126A5911619019C40",
+    "size": 13973
   },
   {
     "name": "fixes.asi",
@@ -3173,11 +3173,6 @@
     "name": "MinHook.x86.dll",
     "hash": "ACC6C72BEA8F5B7E02E3DE56BA2F86EA",
     "size": 14848
-  },
-  {
-    "name": "models\\chr.IDE",
-    "hash": "1D4EF06A023898F7233E278E16499E5E",
-    "size": 27413
   },
   {
     "name": "models\\coll\\peds.col",
@@ -3386,13 +3381,8 @@
   },
   {
     "name": "models\\grass\\redfire5n.img",
-    "hash": "80A448450ED2071CD07F9CDF6A32543B",
-    "size": 358889472
-  },
-  {
-    "name": "models\\grass\\redfire6.img",
-    "hash": "AF201FBBDF9BCFC51356BBFA01F5D9FF",
-    "size": 109408256
+    "hash": "45477C84A19F38B875EA74B89E0B100E",
+    "size": 358887424
   },
   {
     "name": "models\\gta3.img",
@@ -3738,6 +3728,11 @@
     "name": "models\\txd\\stickers.txd",
     "hash": "3BF73F3C46DC368DF4023827B1095702",
     "size": 17631684
+  },
+  {
+    "name": "models\\txd\\txd.rar",
+    "hash": "7DE6A0A25A2C735D70FAF2389CC52783",
+    "size": 81921704
   },
   {
     "name": "models\\vehicle.txd",
@@ -4941,8 +4936,8 @@
   },
   {
     "name": "redfire\\voice_log.txt",
-    "hash": "D41D8CD98F00B204E9800998ECF8427E",
-    "size": 0
+    "hash": "C4CA4238A0B923820DCC509A6F75849B",
+    "size": 1
   },
   {
     "name": "redfire\\vsettings.ini",
@@ -4973,16 +4968,6 @@
     "name": "safeZones.txt",
     "hash": "91089DA46F7B55DD738A1295B29EB959",
     "size": 3477
-  },
-  {
-    "name": "SAMP\\chr.IDE",
-    "hash": "0A37261DA9841D84A78D357E68879657",
-    "size": 17421
-  },
-  {
-    "name": "SAMP\\chr.IPL",
-    "hash": "F54D92DF6E7FED630312CF2449F02011",
-    "size": 183326
   },
   {
     "name": "SAMP\\CUSTOM.ide",
@@ -5106,8 +5091,8 @@
   },
   {
     "name": "voice.asi",
-    "hash": "EDA055E5D5581055F2E68D9579F56F45",
-    "size": 1100800
+    "hash": "4FAA86062FA637EF51A4AEF0C635D1A2",
+    "size": 1134592
   },
   {
     "name": "vorbis.dll",
