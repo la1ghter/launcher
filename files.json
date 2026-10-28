@@ -186,18 +186,18 @@
   },
   {
     "name": "buildings.json",
-    "hash": "0431BC0843254908EBE257AC39C83204",
-    "size": 115231
+    "hash": "CACA3ED6D170D3B6ADCD722199FCC9F4",
+    "size": 115354
   },
   {
     "name": "client.asi",
-    "hash": "C683BC5259FBD11992BBB3149570E8C3",
-    "size": 11984896
+    "hash": "333D13F28672B41D72F130E262683A86",
+    "size": 12465152
   },
   {
     "name": "client.log",
-    "hash": "C4CA4238A0B923820DCC509A6F75849B",
-    "size": 1
+    "hash": "E94DFA5E446B5A22BFAC18B213FAF4D8",
+    "size": 130847
   },
   {
     "name": "craches.asi",
@@ -496,7 +496,7 @@
   },
   {
     "name": "data\\dynamiczones.dat",
-    "hash": "A2A7C3F687D2BA9735AFA737F41A9D39",
+    "hash": "E40C9AC89E201FD191248891DD038791",
     "size": 48
   },
   {
@@ -536,8 +536,8 @@
   },
   {
     "name": "data\\gen\\HANDLING.CFG",
-    "hash": "D6E81C9A271551D55D9D1E5D93F96C45",
-    "size": 117892
+    "hash": "554788AE90831C4ABBD8E4874AF01C84",
+    "size": 117856
   },
   {
     "name": "data\\gen\\LAn2.IDE",
@@ -626,7 +626,7 @@
   },
   {
     "name": "data\\gen\\WEAPON.DAT",
-    "hash": "FB3B715E8F9C365EBD1FF8FBA2B5598A",
+    "hash": "085AC5AABB4E702AE4501FE961F2F062",
     "size": 11458
   },
   {
@@ -3140,6 +3140,11 @@
     "size": 40552
   },
   {
+    "name": "GtaPerfFixPC.log",
+    "hash": "C4CA4238A0B923820DCC509A6F75849B",
+    "size": 1
+  },
+  {
     "name": "gtaweap3.ttf",
     "hash": "59CBAE9FD42A9A4EEA90AF7F81E5E734",
     "size": 103552
@@ -3151,8 +3156,8 @@
   },
   {
     "name": "handling.asi",
-    "hash": "2E878927C358F4B9B0B2F9B52EAC89D7",
-    "size": 430592
+    "hash": "ECEA317A81103B5FF76C315F9008051F",
+    "size": 430080
   },
   {
     "name": "hud.asi",
@@ -3161,8 +3166,18 @@
   },
   {
     "name": "launcher.asi",
-    "hash": "7AD0E9230258B7C3E22194B69667FD32",
-    "size": 466432
+    "hash": "605DF9EBE23A552EB6A9DCF890A55822",
+    "size": 180736
+  },
+  {
+    "name": "launcher2.asi",
+    "hash": "AB343DA12F9636C6ADA0D027930A893C",
+    "size": 141312
+  },
+  {
+    "name": "launcher_v2.log",
+    "hash": "C4CA4238A0B923820DCC509A6F75849B",
+    "size": 1
   },
   {
     "name": "LicensePlate.asi",
@@ -3350,6 +3365,11 @@
     "size": 1981
   },
   {
+    "name": "models\\grass\\img.img",
+    "hash": "8FC7F2EC79402A952D5B896B710B3A41",
+    "size": 8192
+  },
+  {
     "name": "models\\grass\\plant1.dff",
     "hash": "E88432F1E188A4CFC6959AE645A4329F",
     "size": 2072
@@ -3361,8 +3381,8 @@
   },
   {
     "name": "models\\grass\\redfire1.img",
-    "hash": "92CEB31FD83D0D2C436A5211067E3085",
-    "size": 815794176
+    "hash": "0F3F7EAF48228E9B0499900E6C2BF8C3",
+    "size": 827078656
   },
   {
     "name": "models\\grass\\redfire2.img",
@@ -3381,13 +3401,13 @@
   },
   {
     "name": "models\\grass\\redfire5n.img",
-    "hash": "45477C84A19F38B875EA74B89E0B100E",
-    "size": 358887424
+    "hash": "C51E1327EF9A8E3EF8CCC4A653D0D785",
+    "size": 364703744
   },
   {
     "name": "models\\gta3.img",
-    "hash": "7D95D95691BF45BAF06784B3505BDF9F",
-    "size": 1600311296
+    "hash": "2EAE252DA3A94E80F84E1337A98A5B9D",
+    "size": 1598658560
   },
   {
     "name": "models\\gta_int.img",
@@ -3396,13 +3416,13 @@
   },
   {
     "name": "models\\hud.txd",
-    "hash": "E46634F2F801D2FB5AF81C562BA59D92",
+    "hash": "F7B4E5609441AB3D21DE0AF1C678F605",
     "size": 22865672
   },
   {
     "name": "models\\map.ipl",
-    "hash": "78E4F9DC85722AA077A86CC36FD211DC",
-    "size": 305126
+    "hash": "2D6BA4D0EBDD59ECE09C13A8B5977702",
+    "size": 305774
   },
   {
     "name": "models\\misc.txd",
@@ -3431,13 +3451,13 @@
   },
   {
     "name": "models\\txd\\ach.txd",
-    "hash": "B4B2B974733DBCCC498339A0C8DF8D57",
+    "hash": "FE6FC564C7FE64FEF05EE72E5C44742D",
     "size": 170376216
   },
   {
     "name": "models\\txd\\car.txd",
-    "hash": "1EF0BBBF43A01676738F562748E08704",
-    "size": 15172160
+    "hash": "1604DFC7CEF8BF1BE3F56F524A793B8E",
+    "size": 15660212
   },
   {
     "name": "models\\txd\\durak.txd",
@@ -3730,11 +3750,6 @@
     "size": 17631684
   },
   {
-    "name": "models\\txd\\txd.rar",
-    "hash": "7DE6A0A25A2C735D70FAF2389CC52783",
-    "size": 81921704
-  },
-  {
     "name": "models\\vehicle.txd",
     "hash": "6451A65070CB186CE7404D7FF8142944",
     "size": 1816348
@@ -4020,9 +4035,24 @@
     "size": 21
   },
   {
+    "name": "redfire\\tracks\\67.mp3",
+    "hash": "1620C0D7B353CCE6F4FDF12F3D672B99",
+    "size": 306262
+  },
+  {
     "name": "redfire\\tracks\\ahmed.mp3",
     "hash": "CA642B26D698622270F23A11B563FC55",
     "size": 105442
+  },
+  {
+    "name": "redfire\\tracks\\AmAm.mp3",
+    "hash": "AB28CD473875D518119EA666B69B563D",
+    "size": 277005
+  },
+  {
+    "name": "redfire\\tracks\\aura.mp3",
+    "hash": "6B23AB64926ED135298A8D4AECD0C3EA",
+    "size": 539274
   },
   {
     "name": "redfire\\tracks\\a_otvyzhis.wav",
@@ -4035,6 +4065,11 @@
     "size": 138806
   },
   {
+    "name": "redfire\\tracks\\Banani.mp3",
+    "hash": "6035BB0E255BACA40BF81AE0C6D7B2C9",
+    "size": 423291
+  },
+  {
     "name": "redfire\\tracks\\bankomat.mp3",
     "hash": "DEAFD889CFE7932E6595592B98F0205A",
     "size": 40947
@@ -4045,6 +4080,21 @@
     "size": 109956
   },
   {
+    "name": "redfire\\tracks\\BemBem.mp3",
+    "hash": "54F0D0F35B3BB3D5F5293AC6B77877B0",
+    "size": 679291
+  },
+  {
+    "name": "redfire\\tracks\\Bistree.mp3",
+    "hash": "AE72C02B132F5E92F3A4FB8491E09330",
+    "size": 241479
+  },
+  {
+    "name": "redfire\\tracks\\Bizness.mp3",
+    "hash": "9F4499E074BB9AD2EA57A15A480086FA",
+    "size": 283274
+  },
+  {
     "name": "redfire\\tracks\\boltaim.mp3",
     "hash": "0B4ECD11F8BF11861FC1E9A4FACCFA63",
     "size": 61978
@@ -4053,6 +4103,16 @@
     "name": "redfire\\tracks\\boombox.mp3",
     "hash": "D13FA85F33E87BF1A3A37578E4E4F102",
     "size": 2900783
+  },
+  {
+    "name": "redfire\\tracks\\BravoBoss.mp3",
+    "hash": "BF93D06008A511DD17FAB5CF10B77655",
+    "size": 231030
+  },
+  {
+    "name": "redfire\\tracks\\Brrrr.mp3",
+    "hash": "17FED28FFF7D3D9E28AB21E15F7B43AD",
+    "size": 252972
   },
   {
     "name": "redfire\\tracks\\buy.mp3",
@@ -4073,6 +4133,16 @@
     "name": "redfire\\tracks\\chikibriki.mp3",
     "hash": "8A05B575B3FC81D64C71B0C9F4163906",
     "size": 45601
+  },
+  {
+    "name": "redfire\\tracks\\Cultura.mp3",
+    "hash": "1A3E73BB42FC1BFA200EA77A3972336C",
+    "size": 157887
+  },
+  {
+    "name": "redfire\\tracks\\Davayy.mp3",
+    "hash": "FEABEF52BFF06079A9CC726AA211DFEF",
+    "size": 210132
   },
   {
     "name": "redfire\\tracks\\dealer.mp3",
@@ -4103,6 +4173,11 @@
     "name": "redfire\\tracks\\eda.wav",
     "hash": "A209D1089468859A2875A68E4A2EBCA6",
     "size": 380972
+  },
+  {
+    "name": "redfire\\tracks\\EgoDengi.mp3",
+    "hash": "E7BA3F672AC06E76E0266E17182348E2",
+    "size": 196548
   },
   {
     "name": "redfire\\tracks\\failed.mp3",
@@ -4215,6 +4290,11 @@
     "size": 22222
   },
   {
+    "name": "redfire\\tracks\\lezginka.mp3",
+    "hash": "5ACFCB523E7B269DA7C008270C27C3BE",
+    "size": 461952
+  },
+  {
     "name": "redfire\\tracks\\lock_off.mp3",
     "hash": "BD8B3783C017FC3211F1904C02BB5257",
     "size": 29376
@@ -4260,6 +4340,11 @@
     "size": 95891
   },
   {
+    "name": "redfire\\tracks\\mognu.mp3",
+    "hash": "9A79A49C80C6564541EE4385E66DAC1E",
+    "size": 325070
+  },
+  {
     "name": "redfire\\tracks\\monets.mp3",
     "hash": "92DE09A6184D1B72B216A7CBBF17B4AB",
     "size": 8149
@@ -4273,6 +4358,11 @@
     "name": "redfire\\tracks\\mprivet.mp3",
     "hash": "D29F1F7C76A6A0204AECB6E3FBC50F13",
     "size": 39084
+  },
+  {
+    "name": "redfire\\tracks\\mrbeast.mp3",
+    "hash": "3AE670333A47887121741503D3956910",
+    "size": 303128
   },
   {
     "name": "redfire\\tracks\\mus_high.mp3",
@@ -4293,6 +4383,11 @@
     "name": "redfire\\tracks\\nuzdarova.mp3",
     "hash": "7E9BCA22AAA2D9CC62CC3660222A0295",
     "size": 29929
+  },
+  {
+    "name": "redfire\\tracks\\OhMyGod.mp3",
+    "hash": "885E30551AB297F7491BCE2661501E50",
+    "size": 231030
   },
   {
     "name": "redfire\\tracks\\ost_high.mp3",
@@ -4785,6 +4880,11 @@
     "size": 2123131
   },
   {
+    "name": "redfire\\tracks\\Posidim.mp3",
+    "hash": "32F4EB5F7FFE36EA3BA9502EB86AC17E",
+    "size": 267601
+  },
+  {
     "name": "redfire\\tracks\\rampage.mp3",
     "hash": "58AF900DC8D5E09448D48F8A7E4BC3A4",
     "size": 40960
@@ -4830,6 +4930,16 @@
     "size": 1807464
   },
   {
+    "name": "redfire\\tracks\\siuuu.mp3",
+    "hash": "A515AFCEE9C30DD1FD6C8347B55AE05F",
+    "size": 187144
+  },
+  {
+    "name": "redfire\\tracks\\Skazka.mp3",
+    "hash": "30612A092054748AE2A377A5C0B8EFA7",
+    "size": 74295
+  },
+  {
     "name": "redfire\\tracks\\sms.mp3",
     "hash": "D646EBB170DA447E68F40D13326C2649",
     "size": 103022
@@ -4860,6 +4970,11 @@
     "size": 470880
   },
   {
+    "name": "redfire\\tracks\\sudmili.mp3",
+    "hash": "F140363290F0FA20D73E2F82951ED3C9",
+    "size": 280140
+  },
+  {
     "name": "redfire\\tracks\\super_high.mp3",
     "hash": "0773630EB0F91E290BBCA59ABD8ED719",
     "size": 483720
@@ -4875,6 +4990,21 @@
     "size": 215085
   },
   {
+    "name": "redfire\\tracks\\Tanceum.mp3",
+    "hash": "38B3742E8FD40D86526760B53940F8AB",
+    "size": 296858
+  },
+  {
+    "name": "redfire\\tracks\\tiktok.mp3",
+    "hash": "D40EF60ED891FC07081C9DA8C24AA6C4",
+    "size": 400303
+  },
+  {
+    "name": "redfire\\tracks\\toctoc.mp3",
+    "hash": "7E2D46904B6F7068D5C678A534CE3ABB",
+    "size": 452548
+  },
+  {
     "name": "redfire\\tracks\\toner.mp3",
     "hash": "38B9885D5B7CB537E07AC7853FC43B92",
     "size": 37135
@@ -4888,6 +5018,11 @@
     "name": "redfire\\tracks\\ublyd.mp3",
     "hash": "9190B05073A76D0EE093C1BD8821D2EA",
     "size": 59622
+  },
+  {
+    "name": "redfire\\tracks\\Ulibaus.mp3",
+    "hash": "69DD452431F9E75873281234B22B9602",
+    "size": 278050
   },
   {
     "name": "redfire\\tracks\\ultrakill.mp3",
@@ -4910,6 +5045,11 @@
     "size": 38434
   },
   {
+    "name": "redfire\\tracks\\Voznya.mp3",
+    "hash": "A2DF6B2F03041FE13B060CEB4278EEA1",
+    "size": 204907
+  },
+  {
     "name": "redfire\\tracks\\wheelf.mp3",
     "hash": "10EE14016B02929AA74CBD804E550717",
     "size": 71922
@@ -4923,6 +5063,11 @@
     "name": "redfire\\tracks\\zabrat.mp3",
     "hash": "1C3E4A1A81D157B505AE7AE61E800BAF",
     "size": 18852
+  },
+  {
+    "name": "redfire\\tracks\\Zakin5.mp3",
+    "hash": "B0E1606916C27ED96F380C2BE9FB7C6B",
+    "size": 226850
   },
   {
     "name": "redfire\\tracks\\zdarov.wav",
@@ -4971,8 +5116,8 @@
   },
   {
     "name": "SAMP\\CUSTOM.ide",
-    "hash": "C3CEE7C60417C592639DFF355B307CB7",
-    "size": 40339
+    "hash": "36563EC5776AFB84B89A71FE85B3F813",
+    "size": 40455
   },
   {
     "name": "SAMP\\custom.img",
